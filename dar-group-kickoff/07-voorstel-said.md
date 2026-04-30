@@ -7,9 +7,11 @@
 
 ## 1. Visie
 
-Inclufy en Dasa/Dar Group bouwen samen — met TechDesk als mede-partner en een externe investeerder voor groei — een gezamenlijke onderneming die de Marokkaanse markt ontsluit voor moderne, lokaal-compliant finance/ERP-software, met perspectief op uitbreiding naar de bredere MENA-regio en Sub-Sahara Afrika.
+Inclufy en Dasa/Dar Group bouwen samen — met TechDesk/Bennani als mede-partner en een externe investeerder voor groei — **Inclufy Marokko/Afrika**: een nieuwe Marokkaanse entiteit die de Marokkaanse en Afrikaanse markt ontsluit voor moderne, lokaal-compliant finance/ERP-software.
 
-**Said's positie:** strategische anker-partner voor Marokko en mede-architect van een regionaal succes. Zijn 10+ jaar operationele aanwezigheid in Marokko (industrieel printbedrijf, secure print, stembiljetten in meerdere Afrikaanse landen, supermarkt-labels) en zijn government/enterprise-netwerk vormen substantieel kapitaal dat de JV vanaf dag één toegang geeft tot besluitvormers die nieuwe spelers maanden tot jaren zou kosten om te bereiken.
+**Bredere context:** dit is de **eerste van meerdere regionale entiteiten** die Inclufy opzet — naast Marokko/Afrika ook Midden-Oosten (lokale partners TBD) en USA (met lokale USA-partner). De NL-markt blijft door Inclufy BV zelfstandig bediend zonder externe partners. Said en Bennani zijn aandeelhouders in **uitsluitend de Marokko/Afrika-entiteit**. Dasa/Dar Group is de eerste regionale anker-partner van Inclufy's mondiale strategie.
+
+**Said's positie:** strategische anker-partner voor Marokko/Afrika en mede-architect van een regionaal succes. Zijn 10+ jaar operationele aanwezigheid in Marokko (industrieel printbedrijf, secure print, stembiljetten in meerdere Afrikaanse landen, supermarkt-labels) en zijn government/enterprise-netwerk vormen substantieel kapitaal dat de JV vanaf dag één toegang geeft tot besluitvormers die nieuwe spelers maanden tot jaren zou kosten om te bereiken. Sub-Sahara Afrika via Marokko als hub is een natuurlijke uitbreiding.
 
 ---
 
@@ -58,7 +60,8 @@ Inclufy en Dasa/Dar Group bouwen samen — met TechDesk als mede-partner en een 
 Marokkaanse SARL of SA, te bepalen op fiscale en governance-overwegingen samen met juristen.
 
 ### 4.3 IP-licentie
-- Inclufy BV verleent exclusieve licentie aan de JV voor commercialisatie in **Marokko** (verlengbaar naar bredere MENA bij prestatiemilestones).
+- Inclufy BV verleent exclusieve licentie aan de JV voor commercialisatie in **Marokko en gedefinieerde Afrikaanse landen** (initiële lijst af te stemmen, verlengbaar bij prestatiemilestones).
+- **Geen exclusiviteit voor Midden-Oosten of USA** — die markten worden door aparte regionale entiteiten bediend met andere lokale partners.
 - Looptijd: **5 jaar**, automatisch verlengbaar.
 - Royalty-vrij voor de JV — de transfer price op licentie-inkoop dekt Inclufy's vergoeding.
 
@@ -110,13 +113,15 @@ Marokkaanse SARL of SA, te bepalen op fiscale en governance-overwegingen samen m
 | Functie | Verantwoordelijke | Toelichting |
 |---|---|---|
 | Productontwikkeling, IP, brand | Inclufy | Geen JV-bemoeienis |
-| Sales en accountmanagement | Dar Group + TechDesk | Eigen mensen, eigen kanalen |
+| Sales en accountmanagement | Dar Group + TechDesk + (Hasna voor Dar Group-relaties) | Eigen mensen, eigen kanalen |
 | JV-leiding (CEO of co-leadership) | Dar Group + TechDesk | Operationeel verantwoordelijk |
 | Implementatie en training | Inclufy | Tegen implementation fee per klant |
 | 1e-lijn lokaal support | Lokaal support team | Gefinancierd uit drie-partijen seed |
 | 2e/3e-lijn support | Inclufy | Tegen retainer of incident-basis |
 | Marketing en lokale communicatie | JV met Inclufy-input | Brand guidelines van Inclufy |
 | Academy levering | JV | Content geleverd door Inclufy |
+
+> **Hasna's rol** — als Hasna Inclufy aan Dar Group's relaties gaat verkopen, formaliseren we dit in het commercial framework: sales-rep onder Dar Group met JV-commissie, of commissie-gebaseerde channel-arrangement. Niet vandaag uitwerken — wel benoemen.
 
 ---
 
@@ -148,10 +153,11 @@ Dagelijkse beslissingen door JV-leiding zonder board-goedkeuring tot een vooraf 
 
 ## 8. Exclusiviteit en territorium
 
-- **Wederzijdse exclusiviteit voor Marokko** gedurende eerste 12 maanden vanaf JV-oprichting.
-- Verlengbaar bij behalen minimum sales-targets.
-- **Geen exclusiviteit voor MENA breder** — afhankelijk van Marokko-prestatie.
-- **Geen exclusiviteit voor Inclufy in andere markten** — Inclufy blijft vrij in Nederland, EU, en niet-MENA-landen.
+- **Territorium van Marokko/Afrika-entiteit**: Marokko en gedefinieerde Afrikaanse landen (initiële lijst af te stemmen).
+- **Wederzijdse exclusiviteit binnen dit territorium** gedurende eerste 12 maanden vanaf JV-oprichting; verlengbaar bij behalen minimum sales-targets.
+- **Geen exclusiviteit voor Midden-Oosten** — die markt wordt door een aparte regionale entiteit van Inclufy bediend met eigen lokale partners.
+- **Geen exclusiviteit voor USA** — die markt wordt door een aparte regionale entiteit met eigen lokale USA-partner bediend.
+- **Geen exclusiviteit voor NL** — Inclufy BV bedient de NL-markt zelfstandig zonder externe partners.
 
 ---
 

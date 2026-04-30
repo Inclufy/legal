@@ -15,9 +15,11 @@ Dit document beschrijft het kader en is bedoeld om in een **één-op-één gespr
 
 ## 2. Visie
 
-Inclufy + Dar Group + TechDesk + investeerder bouwen samen **Inclufy MENA** — een gezamenlijke onderneming die de Inclufy software-suite commercialiseert in Marokko, met perspectief op uitbreiding naar de bredere MENA-regio.
+Inclufy + Dasa/Dar Group + TechDesk + investeerder bouwen samen **Inclufy Marokko/Afrika** — een Marokkaanse entiteit die de Inclufy software-suite commercialiseert in Marokko en gedefinieerde Afrikaanse landen.
 
-**TechDesk's positie:** mede-anker-partner voor Marokko, met sterke lokale aanwezigheid en complementaire klantbase aan die van Dar Group.
+**Bredere context:** dit is de eerste van meerdere regionale Inclufy-entiteiten. Naast Marokko/Afrika zet Inclufy ook entiteiten op voor **Midden-Oosten** (lokale partners TBD) en **USA** (met lokale USA-partner). De NL-markt wordt door Inclufy BV zelfstandig bediend. TechDesk wordt aandeelhouder in **uitsluitend de Marokko/Afrika-entiteit**.
+
+**TechDesk's positie:** mede-anker-partner voor Marokko/Afrika, met sterke lokale aanwezigheid en complementaire klantbase aan die van Dar Group.
 
 ---
 
@@ -116,7 +118,8 @@ Voorstel om in ons gesprek door te lopen:
 | Pool toekomst | 5% | Reserve voor key hires |
 
 ### IP-licentie
-- Inclufy BV verleent exclusieve licentie aan de JV voor **Marokko**.
+- Inclufy BV verleent exclusieve licentie aan de JV voor **Marokko en gedefinieerde Afrikaanse landen** (initiële lijst af te stemmen).
+- **Geen exclusiviteit voor Midden-Oosten of USA** — die worden door aparte Inclufy-entiteiten met eigen lokale partners bediend.
 - Looptijd 5 jaar, automatisch verlengbaar.
 - IP blijft 100% bij Inclufy BV — niet onderhandelbaar, voor de financierbaarheid van de JV.
 

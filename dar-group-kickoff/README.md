@@ -1,6 +1,17 @@
-# Dar Group Kickoff — Marokko
+# Inclufy Marokko/Afrika — Kickoff Pakket
 
-Voorbereidingspakket voor de finance/ERP-implementatie en JV-besprekingen met Dar Group, TechDesk en investeerder.
+Voorbereidingspakket voor de finance/ERP-implementatie en de oprichting van **Inclufy Marokko/Afrika** — de eerste van meerdere regionale Inclufy-entiteiten.
+
+## Multi-region context
+
+| Entiteit | Aandeelhouders | Status |
+|---|---|---|
+| Inclufy BV (NL) | Inclufy alleen | Bestaat — NL-markt zonder externe partners |
+| **Inclufy Marokko/Afrika** | Inclufy + Said + Bennani + investeerder | **Start nu** |
+| Inclufy Midden-Oosten | Inclufy + lokale partners TBD + investeerder | Verkenning |
+| Inclufy USA | Inclufy + lokale USA-partner + investeerder | Verkenning |
+
+Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert multi-region.
 
 ## Documenten
 

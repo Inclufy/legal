@@ -5,6 +5,21 @@
 
 ---
 
+## Multi-region architectuur
+
+Inclufy zet **meerdere regionale entiteiten** op. Deze kickoff betreft uitsluitend **Inclufy Marokko/Afrika**:
+
+| Entiteit | Aandeelhouders | Status |
+|---|---|---|
+| Inclufy BV (NL) | Inclufy alleen — NL-markt zonder externe partners | Bestaat |
+| **Inclufy Marokko/Afrika** | Inclufy + Said (Dasa/Dar Group) + Bennani (TechDesk) + investeerder | **Start nu** |
+| Inclufy Midden-Oosten | Inclufy + lokale partners TBD + investeerder | Verkenning |
+| Inclufy USA | Inclufy + lokale USA-partner + investeerder | Verkenning |
+
+Said en Bennani zijn aandeelhouders in **uitsluitend de Marokko/Afrika-entiteit**. Investeerder participeert in meerdere regio's.
+
+---
+
 ## Wat we nu definitief weten
 
 **Morgen** — technische kickoff met sales rep van Dar Group. Alleen operationeel.
@@ -36,7 +51,10 @@ Toonde interesse om klanten in te brengen. Bracht zelf het onderwerp "geld inleg
 - **Open vraag**: is de Ricoh-distributorship cashflow-positief — zo ja, betekent dat hij de €33k cash-inleg kan dragen.
 
 **Investeerder** — eigen netwerk, interesse maar geen ondertekend stuk.
-Range: €100k–€500k over 3 jaar. Scope: meerdere markten mogelijk. Voorstel moet nog worden uitgewerkt.
+Range: €100k–€500k over 3 jaar. **Multi-region scope**: Marokko/Afrika nu, Midden-Oosten en USA later. Voorstel moet nog worden uitgewerkt.
+
+**Hasna (Dar Group)** — mogelijk verkoopkanaal voor Dar Group's bestaande relaties.
+Rol nog niet geformaliseerd. Kan sales-rep onder Dar Group worden, commissie-channel, of klein deel van toekomst-pool. **Niet vandaag uitwerken — wel benoemen.**
 
 ---
 

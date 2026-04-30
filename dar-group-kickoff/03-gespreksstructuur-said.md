@@ -18,7 +18,7 @@
 
 Begin met een collegiale toon. Bevestig dat de structuur in grote lijnen helder is, en dat vandaag fine-tuning is — geen herstart.
 
-> *"Said, fijn dat we elkaar spreken. De afgelopen weken hebben we de bouwstenen helder gekregen — Inclufy levert product, kennis en implementatie; jij en Bennani leiden de JV en doen sales; het lokale support team bouwen we op met de €100k die we samen inleggen; mijn investeerder komt bovenop voor groei. Dat kader staat. Vandaag wil ik graag met jou de finetuning doen op een aantal punten, en samen het proces voor de komende weken bevestigen."*
+> *"Said, fijn dat we elkaar spreken. De afgelopen weken hebben we de bouwstenen helder gekregen — we bouwen samen Inclufy Marokko/Afrika als nieuwe entiteit waarin jij, Bennani en mijn investeerder instappen. Inclufy levert product, kennis en implementatie; jij en Bennani leiden de entiteit en doen sales; het lokale support team bouwen we op met de €100k die we samen inleggen; mijn investeerder komt bovenop voor groei. Naast Marokko/Afrika werken we parallel aan Midden-Oosten en USA met andere lokale partners — dat valt buiten jouw scope, maar wel goed dat je weet dat dit een eerste regionale stap is in een bredere strategie. Vandaag wil ik graag met jou de finetuning doen op een aantal punten, en samen het proces voor de komende weken bevestigen."*
 
 Daarna kort de drie sporen op tafel leggen via de one-pager:
 1. Pilot — start morgen
@@ -90,6 +90,11 @@ Dit is het belangrijkste deel. **Stel deze vragen, laat Said praten, schrijf op.
 - *"Wat is jullie eerlijke inschatting van wat Dar Group plus TechDesk in jaar 1 kan binnenbrengen? En jaar 2, jaar 3?"*
 - *"Welke klanten in jullie bestand zien jullie als directe Inclufy-prospects?"*
 - *"Wat heeft het gevoel van 'genoeg' voor jullie — qua omzet, klanten, marktaandeel?"*
+
+### Over Hasna en Dar Group's verkoopkanaal
+- *"Je noemde dat Hasna mogelijk Inclufy aan Dar Group's bestaande relaties gaat verkopen. Hoe zie jij dat in concrete vorm — fulltime sales-rol binnen de JV, parttime onder Dar Group met commissie, of iets anders?"*
+- *"Hoeveel van Dar Group's bestaande relaties zijn realistische Inclufy-prospects?"*
+- *"Wat heeft Hasna nodig — qua compensatie, training, ondersteuning — om dit te laten werken?"*
 
 ### Over sales-team financiering (Bennani's punt)
 - *"Toen we met Bennani spraken kwam ter sprake dat er nagedacht moet worden over kapitaal voor dedicated sales-mensen. Hoe zien jullie de structuur — investeren jullie zelf in dat team, of zien jullie het als JV-financiering?"*

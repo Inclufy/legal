@@ -37,6 +37,7 @@ Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert m
 | 11 | [Partnership Structure Options](./11-partnership-options.md) | 6 alternatieve samenwerkingsmodellen vergeleken |
 | 12 | [Optie 6 Uitgelegd — Hybride Model](./12-optie-6-uitgelegd.md) | Stap-voor-stap walkthrough van het hybride model met voorbeelden |
 | 13 | [Investeerder vanaf Dag 1](./13-investeerder-vanaf-dag-1.md) | Vier varianten als de investeerder vanaf dag 1 instapt |
+| 14 | [Asymmetric: Said Founder + Bennani Reseller](./14-asymmetrisch-said-founder-bennani-reseller.md) | Said als peer-founder dag 1, Bennani als reseller met optie tot 10% |
 
 ## Volgorde van gebruik
 

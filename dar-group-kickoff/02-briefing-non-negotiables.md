@@ -13,6 +13,17 @@ On-prem deployment op lokale server. Geen commerciële discussies.
 **Overmorgen** — één-op-één met Said, eigenaar Dar Group. Strategisch gesprek.
 Geen JV-contract, geen aandelen-percentages, geen exclusiviteit. Wel: principes en proces.
 
+**Said's profiel — wat je moet weten voor de toon:**
+- Nederlandse ondernemer, gevestigd in **Heerhugowaard (NL)**.
+- **Bedrijfsstructuur**: **Dasa Group** in Nederland; **Dar Group** als de Marokkaanse entiteit/operatie.
+- **Eigenaar van een industrieel printbedrijf** met 10+ jaar operationele aanwezigheid in Marokko.
+- Voert **secure print** uit: stembiljetten voor meerdere Afrikaanse landen, productlabels voor supermarkten, andere beveiligde print-diensten.
+- Heeft **directe relaties met Marokkaanse en Afrikaanse overheden** en grote bedrijven.
+- Werkt al substantieel samen met **Bennani** — hun samenwerking is geen nieuw construct, het is bestaande chemie.
+- Dit is een **peer-ondernemer**, geen prospect. Behandel hem als gelijke. Hij verwacht efficiëntie en directe taal, geen pitch-toon.
+- Government-track-record + cross-African footprint zijn **strategische assets** voor de JV — dat moet in de waardering meegenomen worden.
+- **Voordeel**: Said is een NL-gevestigde ondernemer — cross-border structurering tussen Inclufy BV en de Marokkaanse JV is voor hem vertrouwd terrein. NL ↔ MA fiscaal verdrag, transfer pricing, holding-structuren — hij kent het.
+
 **Bennani** — geïntroduceerd via Said, gesproken met Said erbij (twee keer).
 Toonde interesse om klanten in te brengen. Bracht zelf het onderwerp "geld inleggen voor sales-capaciteit" op.
 **Nog niet één-op-één gesproken — dit is een gat dat binnen 10 dagen gedicht moet.**
@@ -52,6 +63,9 @@ Bennani heeft dit zelf opgebracht. Said heeft eraan meegewerkt. Jij hebt ingeste
 - Bennani's onafhankelijke beeld (hij heeft alleen met Said erbij gesproken)
 - Of Said cash beschikbaar heeft voor zijn €33k of het uit JV-omzet wil betalen
 - Hoe Inclufy structureel gecompenseerd wordt voor delivery-uren in jaar 2/3
+- **Hoeveel tijd Said realistisch toewijst** — hij heeft een draaiend industrieel printbedrijf met cross-Afrikaanse operaties
+- **Of zijn government-relaties in Afrikaanse landen actief inzetbaar zijn voor Inclufy MENA** — dit is potentieel een enorm strategisch asset, of alleen relevant voor zijn print-business
+- **Welke entiteit aandeelhouder wordt** — Dasa Group (NL), Dar Group (MA), of Said persoonlijk. Heeft fiscale en governance-implicaties.
 
 **Stel deze vragen overmorgen. Schrijf de antwoorden op.**
 

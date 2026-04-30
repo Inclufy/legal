@@ -1,6 +1,7 @@
 # Gespreksstructuur — Said (overmorgen)
 
-> Strategisch gesprek, één-op-één. Geen pitch — collegiaal, founder-tot-founder.
+> Strategisch gesprek, één-op-één. Geen pitch — collegiaal, ondernemer-tot-ondernemer.
+> Said is een ervaren Nederlandse ondernemer met 10+ jaar Marokko-track-record (secure print: stembiljetten Afrika, supermarkt-labels). Hij verwacht efficiëntie, directe taal, en gelijkwaardigheid.
 > Doel: principes bevestigen, open punten in kaart brengen, proces afspreken. **Geen handtekening, geen percentages.**
 
 ---
@@ -73,7 +74,9 @@ Dit is het belangrijkste deel. **Stel deze vragen, laat Said praten, schrijf op.
 
 ### Over zijn motivatie en verwachtingen
 - *"Als jij over 3 jaar terugkijkt op deze samenwerking en het is een succes — wat hebben we dan bereikt?"*
-- *"Wat is voor Dar Group de strategische reden om hierin te investeren?"*
+- *"Wat is voor Dasa/Dar Group de strategische reden om hierin te investeren? Hoe past dit in je bestaande print-business in Marokko en Afrika?"*
+- *"Welke entiteit wordt aandeelhouder in de JV — Dasa Group NL, Dar Group Marokko, of jij persoonlijk? Heeft dat fiscale of strategische implicaties die we vroeg moeten meenemen?"*
+- *"Je bestaande relaties met Marokkaanse en Afrikaanse overheden zijn potentieel een groot asset voor de JV. Hoe zie jij dat — actief inzetbaar voor Inclufy-prospects, of alleen relevant voor je print-business?"*
 - *"Waar maak je je zorgen over? Wat zou voor jou een dealbreaker zijn?"*
 
 ### Over Bennani en TechDesk

@@ -26,10 +26,10 @@ Inclufy biedt een geïnvesteerde gelegenheid om mede-aandeelhouder te worden in 
 - Beperkt aanbod van moderne, geïntegreerde finance/ERP-oplossingen aangepast aan **CGNC, TVA en états de synthèse**.
 - Bestaande oplossingen zijn vaak verouderd (SAGE 100, Sage 1000) of generiek (Odoo, Dynamics 365) zonder lokale compliance-diepte.
 
-### 2.2 Bredere MENA-strategie
+### 2.2 Bredere MENA + Afrika-strategie
 - Egypte (markt #2, 12–18 maanden post-Marokko)
 - GCC (Saoedi-Arabië, VAE — markt #3, 18–24 maanden)
-- Mogelijk Sub-Sahara Afrika via Marokko als hub
+- **Sub-Sahara Afrika via Marokko als hub** — versterkt door Said's bestaande cross-Afrikaanse government-relaties (printopdrachten in meerdere Afrikaanse landen) die deuren openen voor Inclufy in dezelfde markten
 
 ---
 
@@ -51,10 +51,15 @@ Inclufy biedt een geïnvesteerde gelegenheid om mede-aandeelhouder te worden in 
 
 ## 4. Lokale partners
 
-### 4.1 Dar Group (Said)
-- Gevestigd Casablancaans bedrijf met bestaande klantrelaties in mid-market segment.
-- Brengt **sales-kanaal, klantbase, delivery- en consulting-capaciteit, en operationele JV-leiding**.
-- Eerste klant van Inclufy in Marokko (lighthouse pilot).
+### 4.1 Dasa Group (NL) / Dar Group (Marokko) — Said
+- **Said is een Nederlandse ondernemer** gevestigd in Heerhugowaard, met **Dasa Group** als NL-entiteit en **Dar Group** als Marokkaanse operatie.
+- **10+ jaar operationele track-record in Marokko.** Industrieel printbedrijf met focus op **secure print**: stembiljetten voor meerdere Afrikaanse landen, productlabels voor supermarktketens, andere beveiligde print-diensten.
+- **Government- en enterprise-relaties** in Marokko en cross-Afrikaans (meerdere landen) — substantieel netwerk dat als strategisch asset voor de JV inzetbaar is.
+- Werkt al substantieel samen met **Bennani / TechDesk** — bestaande chemie en gedeelde projecten, geen nieuw geconstrueerd partnership.
+- **Voordeel cross-border structurering**: NL-gevestigd, kent NL ↔ MA fiscaal verdrag en holding-structuren.
+- Eerste klant van Inclufy in Marokko (lighthouse pilot voor Dar Group's eigen finance/ERP-behoefte).
+- Brengt **sales-kanaal, government/enterprise-klantbase, delivery- en consulting-capaciteit, operationele JV-leiding**.
+- **Aandeelhoudende entiteit** te bepalen: Dasa Group, Dar Group, of Said persoonlijk — fiscale en governance-implicaties in DD af te wegen.
 - **Cash-inleg:** ~€33k voor sales-team jaar 1.
 
 ### 4.2 TechDesk / Bennani

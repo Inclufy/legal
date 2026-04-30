@@ -1,4 +1,4 @@
-# Partnership Voorstel — Dar Group (Said)
+# Partnership Voorstel — Dasa Group (NL) / Dar Group (Marokko) — Said
 
 > **Status:** Werkdocument / draft. Bedoeld als basis voor het strategisch gesprek met Said.
 > Niet ondertekend, niet bindend. Concrete cijfers zijn **indicatief** en worden in finalisatie aangepast.
@@ -7,22 +7,23 @@
 
 ## 1. Visie
 
-Inclufy en Dar Group bouwen samen — met TechDesk als mede-partner en een externe investeerder voor groei — een gezamenlijke onderneming die de Marokkaanse markt ontsluit voor moderne, lokaal-compliant finance/ERP-software, met perspectief op uitbreiding naar de bredere MENA-regio.
+Inclufy en Dasa/Dar Group bouwen samen — met TechDesk als mede-partner en een externe investeerder voor groei — een gezamenlijke onderneming die de Marokkaanse markt ontsluit voor moderne, lokaal-compliant finance/ERP-software, met perspectief op uitbreiding naar de bredere MENA-regio en Sub-Sahara Afrika.
 
-**Dar Group's positie:** strategische anker-partner voor Marokko en mede-architect van een regionaal succes.
+**Said's positie:** strategische anker-partner voor Marokko en mede-architect van een regionaal succes. Zijn 10+ jaar operationele aanwezigheid in Marokko (industrieel printbedrijf, secure print, stembiljetten in meerdere Afrikaanse landen, supermarkt-labels) en zijn government/enterprise-netwerk vormen substantieel kapitaal dat de JV vanaf dag één toegang geeft tot besluitvormers die nieuwe spelers maanden tot jaren zou kosten om te bereiken.
 
 ---
 
 ## 2. Wederzijdse uitgangspunten
 
-| Inclufy brengt | Dar Group brengt |
+| Inclufy brengt | Dasa/Dar Group brengt |
 |---|---|
-| Bewezen software-product | Bestaande klantbase |
-| IP en mondiale productroadmap | Sales-kanaal en marktreputatie |
-| Kennis, training, implementatie | Operationele JV-leiding |
-| Investeerder uit eigen netwerk | Delivery- en consulting-capaciteit |
+| Bewezen software-product | 10+ jaar operationele track-record in Marokko |
+| IP en mondiale productroadmap | Government- en enterprise-netwerk (MA + cross-Afrika) |
+| Kennis, training, implementatie | Sales-kanaal en marktreputatie |
+| Investeerder uit eigen netwerk | Operationele JV-leiding |
 | Cash-inleg van ~€33k voor sales-team jaar 1 | Cash-inleg van ~€33k voor sales-team jaar 1 |
-| Regionale ambitie en MENA-strategie | Lokale aanwezigheid en cultuurkennis |
+| Regionale ambitie (MENA + Afrika) | Lokale aanwezigheid en cultuurkennis |
+| NL-entiteit voor cross-border structurering | NL-entiteit (Dasa Group) + MA-operatie (Dar Group) — vertrouwd terrein voor cross-border holding |
 
 ---
 
@@ -66,15 +67,15 @@ Marokkaanse SARL of SA, te bepalen op fiscale en governance-overwegingen samen m
 | Aandeelhouder | % (range) | Bijdrage |
 |---|---|---|
 | Inclufy | 40–45% | IP-licentie + cash + delivery |
-| Dar Group | 20–25% | Cash + sales + delivery + consulting + JV management |
-| TechDesk | 15–20% | Cash + sales + klantintroductie + mede-management |
+| Dasa/Dar Group | 22–27% | Cash + sales + delivery + consulting + JV management + government/enterprise-netwerk |
+| TechDesk / Bennani | 15–20% | Cash + sales + klantintroductie + mede-management |
 | Investeerder | 12–18% | Cash voor groei (€100k–€500k getranchet) |
 | Pool toekomst | 5% | Reserve voor key hires |
 
-> **Definitieve percentages volgen uit formele waardering** met juridische en fiscale begeleiding.
+> **Definitieve percentages volgen uit formele waardering** met juridische en fiscale begeleiding. Dasa/Dar Group's percentage is hoger dan een puur sales-partner zou zijn, vanwege (a) Said's track-record en credibility in de Marokkaanse markt en (b) de strategische waarde van zijn government/enterprise-relaties voor klant-acquisitie.
 
 ### 4.5 Vesting
-- Aandelen voor Dar Group **vesten over 4 jaar** (cliff van 1 jaar) gekoppeld aan operationele bijdrage:
+- Aandelen voor Dasa/Dar Group **vesten over 4 jaar** (cliff van 1 jaar) gekoppeld aan operationele bijdrage:
   - Sales-doelen (klanten binnenbrengen)
   - Delivery-uren (consulting capaciteit toewijzen)
   - JV-management commitment (continuïteit van leiding)
@@ -192,6 +193,7 @@ Dagelijkse beslissingen door JV-leiding zonder board-goedkeuring tot een vooraf 
 - [ ] Investeerder zit in de JV, niet in Inclufy BV
 - [ ] Bennani-gesprek één-op-één in komende 2 weken
 - [ ] Eigen advocaten aan beide kanten
+- [ ] Welke entiteit aandeelhouder wordt — Dasa Group (NL), Dar Group (MA), of Said persoonlijk
 
 **Open punten voor commercial framework:**
 - Exacte transfer pricing en marges

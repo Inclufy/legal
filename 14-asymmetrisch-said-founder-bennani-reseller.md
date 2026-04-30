@@ -259,4 +259,70 @@ Said akkoord?
 
 ---
 
+## 11. IP en revenue flow Inclufy BV ↔ JV
+
+De vier revenue streams hebben elk een eigen IP-ownership en royalty-structuur. Dit moet vooraf vastliggen anders ontstaat conflict bij eerste klant.
+
+### 11.1 Per stream — overzicht
+
+| Stream | Wie levert | IP-eigenaar | BV-royalty | Bennani-commissie* | JV netto |
+|---|---|---|---|---|---|
+| Software licentie (SaaS) | NL-platform, JV verkoopt | Inclufy BV | 25% van gross | 30% | ~45% |
+| Implementatie | JV-team lokaal | BV-methodologie + JV-uitvoering | 10% van gross | 40% | ~50% |
+| Consultancy | JV-team | JV-expertise op BV-principes | 5% van gross | 25% | ~70% |
+| Academy | BV-curriculum + JV-localisatie | Joint, BV-licensed | 20% van gross | 25% | ~55% |
+
+*Commissie alleen op brought-by-Bennani klanten.
+
+**Logica:** hoge royalty waar BV's IP dominant is (software), lage royalty waar JV de waarde toevoegt (consultancy).
+
+### 11.2 Worked example
+
+Klant van €1.000/maand subscription + €25k eenmalige implementatie, brought-by-Bennani:
+
+| Bron | Subscription/maand | Implementatie eenmalig |
+|---|---|---|
+| Klant betaalt JV | €1.000 | €25.000 |
+| Royalty naar Inclufy BV | -€250 (25%) | -€2.500 (10%) |
+| Bennani commissie | -€300 (30%) | -€10.000 (40%) |
+| **JV behoudt** | **€450 (45%)** | **€12.500 (50%)** |
+
+Op jaar 1 met 5 klanten brought-by-Bennani: JV-omzet ~€185k, JV-marge na royalty + commissie ~€85k.
+
+### 11.3 IP-bescherming en structuur
+
+1. **Software source code** — blijft 100% bij Inclufy BV, gehost in NL/EU. JV krijgt exclusieve verkooplicentie voor MENA, geen code-toegang.
+2. **Trademark** (Inclufy / InclufyGO / AMOS) — exclusief gelicenseerd aan JV voor MENA, herroepbaar bij contractbreuk of na exit Said.
+3. **Lokalisaties** (Arabisch, Frans, MA-specifieke content) — eigendom Inclufy BV, JV ontwikkelt onder work-for-hire met vaste vergoeding per project.
+4. **JV-ontwikkelde academy-content** — eigendom JV, met perpetuele licentie naar Inclufy BV voor gebruik buiten MENA tegen 15% royalty (omgekeerde flow).
+5. **Customer data** — JV is verwerkingsverantwoordelijke voor MENA-klanten; BV is processor voor hosting. AVG/Marokkaanse Loi 09-08 compliance gescheiden geregeld.
+
+### 11.4 Academy als aparte business line
+
+Groot genoeg voor eigen P&L binnen JV:
+
+- **Certificeringen** met jaarlijkse hercertificering = recurring revenue, hoge marge
+- **Train-the-trainer** = schaalbaar zonder JV-personeel uit te breiden
+- **Open inschrijving vs. in-company** = verschillende prijspunten en margestructuren
+- **Co-branding** optie: Academy onder Inclufy-brand of aparte lokale brand — te beslissen voor launch
+
+### 11.5 Open punten royalty-model
+
+1. **Royalty op gross of net?** Voorstel: gross (simpeler, controleerbaar, marktconform reseller-praktijk)
+2. **Commissie Bennani op gross of na BV-royalty?** Voorstel: gross (motivatie van reseller is essentieel in fase 1)
+3. **Minimum royalty floor?** BV mag niet onder een floor zakken bij grote kortingen door JV. Voorstel: minimum €X per seat ongeacht eindprijs
+4. **Transfer pricing NL-MA** — fiscaal advies verplicht, royalty's moeten arm's-length zijn (OECD guidelines, anders fiscale boetes beide kanten)
+5. **Wie betaalt platform-doorontwikkeling?** Voorstel: BV draagt R&D, dat rechtvaardigt de hogere royalty op software
+6. **Academy-content doorontwikkeling** — wie maakt nieuw curriculum, wie betaalt, wie bezit? Voorstel: jaarlijks committee BV+JV bepaalt roadmap
+
+### 11.6 Implicatie voor gesprek met Said
+
+Said moet begrijpen: zijn 25% zit in de **JV**, niet in Inclufy BV. De royalty's vloeien terug naar BV waar hij geen aandelen heeft. Dit is standaard JV-praktijk maar moet expliciet besproken worden vóór ondertekening om latere teleurstelling te voorkomen.
+
+**Verdediging als Said tegenwerpt dat dit oneerlijk voelt:**
+
+> *"Said, zonder de software en IP van Inclufy BV is er geen JV om aandeelhouder van te zijn. De royalty is de huur voor de motor. Jouw 25% is op de operationele winst van MENA — een markt die wij samen opbouwen. Mijn 55% in de JV reflecteert die IP-bijdrage al; als ik géén royalty zou rekenen, zou ik een hoger JV-aandeel willen. Dit is hoe alle gezonde JV's met IP werken — Microsoft-MENA, SAP-MENA, allemaal hetzelfde model."*
+
+---
+
 *Volgende update na gesprek Said.*

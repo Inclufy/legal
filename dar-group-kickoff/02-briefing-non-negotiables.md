@@ -17,6 +17,13 @@ Geen JV-contract, geen aandelen-percentages, geen exclusiviteit. Wel: principes 
 Toonde interesse om klanten in te brengen. Bracht zelf het onderwerp "geld inleggen voor sales-capaciteit" op.
 **Nog niet één-op-één gesproken — dit is een gat dat binnen 10 dagen gedicht moet.**
 
+**Bennani's positie:**
+- Werkt voor **TechDesk Casablanca** (rol nog te verifiëren — werknemer of mede-eigenaar?).
+- **Mede-eigenaar van een Ricoh multicopier-distributeur** in Marokko.
+- Heeft dus B2B channel-sales-ervaring en een bestaande klantbase van bedrijven (kantoren, organisaties met printers — overlappende prospects voor finance/ERP).
+- **Open vraag**: wat is zijn primaire business — TechDesk, de Ricoh-distributorship, of Inclufy MENA? Hoeveel tijd kan hij realistisch toewijzen aan de JV?
+- **Open vraag**: is de Ricoh-distributorship cashflow-positief — zo ja, betekent dat hij de €33k cash-inleg kan dragen.
+
 **Investeerder** — eigen netwerk, interesse maar geen ondertekend stuk.
 Range: €100k–€500k over 3 jaar. Scope: meerdere markten mogelijk. Voorstel moet nog worden uitgewerkt.
 
@@ -99,6 +106,7 @@ Implementation fee per klant óf intercompany rate per uur. Niet "onderdeel van 
 - **Vragen over investeerder die op Inclufy BV-niveau lijken.** "Hoeveel aandelen in Inclufy krijgt hij?" → corrigeer direct: investeerder zit in JV.
 - **Bennani's bijdrage wordt opeens groter dan eerder besproken.** Said schuift waarde rond → vraag door.
 - **Tijdsdruk op de pilot.** "We willen al binnen 4 weken live" → onrealistisch, beschadigt de partnership.
+- **Bennani is full-time in zijn Ricoh-business.** Als hij geen substantiële tijd vrij kan maken, is zijn aandeel als operationeel mede-leider niet te rechtvaardigen → herzie zijn rol naar "channel partner met klantintroductie" in plaats van "mede-CEO".
 
 ---
 

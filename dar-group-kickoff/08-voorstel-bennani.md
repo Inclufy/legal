@@ -31,13 +31,15 @@ Inclufy + Dar Group + TechDesk + investeerder bouwen samen **Inclufy MENA** — 
 - Cash-inleg ~€33k voor sales-team jaar 1
 - Regionale ambitie en MENA-strategie
 
-### Wat TechDesk brengt
+### Wat jij persoonlijk en TechDesk brengen
 - Bestaande klantrelaties in Marokko
 - Lokale aanwezigheid en marktreputatie in Casablanca
 - Bereidheid om mede-leiding te nemen in operationele JV
 - Mede-sales-inspanning naar Inclufy-prospects
 - Cash-inleg ~€33k voor sales-team jaar 1
 - Complementariteit met Dar Group
+- **B2B channel-sales-ervaring** vanuit jouw Ricoh multicopier-distributorship — dezelfde klantsegmenten (kantoren, mid-market bedrijven) hebben behoefte aan moderne finance/ERP-software, dus directe synergie met je bestaande klantbase
+- **Distributiekanaal-expertise** — ervaring met meerlaagse partnerships, channel management, lokale support-modellen — direct toepasbaar op de Inclufy MENA-structuur
 
 ---
 
@@ -144,11 +146,24 @@ TechDesk **medeondertekent** alle structurele documenten als aandeelhouder en me
 - Hoeveel klanten bedient TechDesk nu actief? In welke segmenten en industrieën?
 - Hoeveel mensen werken bij TechDesk? Welke profielen?
 - Hebben jullie een dedicated sales-team voor enterprise software?
-- Hoe is jullie financiële positie? Kunnen jullie de €33k cash-inleg dragen?
+- **Wat is jouw rol bij TechDesk — werknemer, partner, mede-eigenaar?** Dat bepaalt of TechDesk zelf aandeelhouder wordt in de JV, of jij persoonlijk.
+- Hoe is jullie financiële positie? Kan TechDesk (of jij persoonlijk) de €33k cash-inleg dragen?
+
+### Over de Ricoh-distributorship
+- Hoe lang draai je deze business al? Wat is de schaal — omzet, klanten, mensen?
+- Hoeveel B2B-klanten in jullie distributiekanaal zijn potentiële Inclufy-prospects?
+- Is er **channel-conflict** met TechDesk? Of zijn deze businesses helder gescheiden?
+- Welke entiteit wordt aandeelhouder in de Inclufy MENA JV — TechDesk, Bennani persoonlijk, of de Ricoh-entiteit?
+- Zou de Ricoh-klantbase actief gebruikt kunnen worden voor lead-generatie?
+
+### Over tijd en focus
+- Je hebt twee draaiende businesses. Hoeveel tijd kun je realistisch toewijzen aan Inclufy MENA — als percentage van je werkweek?
+- Welke rol past bij die tijd-toewijzing — actieve mede-CEO, board-rol met sales-introducties, of channel-partner?
+- Zijn er medewerkers binnen TechDesk die jij dedicated kunt toewijzen aan Inclufy MENA?
 
 ### Over jouw motivatie
 - Wat trekt jou aan in deze samenwerking?
-- Wat zie jij als TechDesk's grootste bijdrage?
+- Wat zie jij als jouw grootste bijdrage?
 - Wat verwacht je terug — qua omzet, qua aandeel, qua operationele rol?
 
 ### Over de samenwerking met Dar Group

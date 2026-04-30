@@ -57,10 +57,13 @@ Inclufy biedt een geïnvesteerde gelegenheid om mede-aandeelhouder te worden in 
 - Eerste klant van Inclufy in Marokko (lighthouse pilot).
 - **Cash-inleg:** ~€33k voor sales-team jaar 1.
 
-### 4.2 TechDesk (Bennani)
-- Casablancaans tech-bedrijf met klantrelaties en lokale aanwezigheid.
-- Brengt **klantintroducties, mede-sales, lokale aanwezigheid en mede-leiding**.
+### 4.2 TechDesk / Bennani
+- Bennani werkt voor TechDesk Casablanca (rol als werknemer of mede-eigenaar te verifiëren).
+- Tevens **mede-eigenaar van een Ricoh multicopier-distributeur** in Marokko — gevestigde B2B distributiebusiness met bestaande klantbase van mid-market bedrijven (overlappende prospects voor finance/ERP).
+- Brengt **klantintroducties, mede-sales, lokale aanwezigheid, channel-sales-ervaring en mede-leiding**.
+- **Aandeelhoudende entiteit nog te bepalen:** TechDesk, Bennani persoonlijk, of de Ricoh-distributie-entiteit.
 - **Cash-inleg:** ~€33k voor sales-team jaar 1.
+- **Aandachtspunt voor due diligence:** tijd-toewijzing van Bennani gegeven twee bestaande draaiende businesses; helderheid over channel-conflict met de Ricoh-business.
 
 ### 4.3 Inclufy
 - **Levert:** product, IP-licentie, kennis, training, implementatie.

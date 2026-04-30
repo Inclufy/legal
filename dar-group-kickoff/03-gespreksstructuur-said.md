@@ -80,6 +80,8 @@ Dit is het belangrijkste deel. **Stel deze vragen, laat Said praten, schrijf op.
 - *"Vertel me meer over je relatie met Bennani — hoe lang werken jullie al samen, hoe is dat ontstaan?"*
 - *"Hoe zien jullie de werkverdeling tussen Dar Group en TechDesk in deze JV?"*
 - *"Zijn er overlappende klanten of marktsegmenten waar we duidelijke afbakening moeten maken?"*
+- *"Bennani heeft naast TechDesk ook een Ricoh-distributorship. Hoe zie jij dat in relatie tot zijn rol in de JV — qua tijd, qua focus, qua mogelijke synergie met de bestaande B2B-klantbase?"*
+- *"Is Bennani werknemer bij TechDesk of mede-eigenaar? En welke entiteit wordt aandeelhouder in de JV — TechDesk, Bennani persoonlijk, of de Ricoh-entiteit?"*
 
 ### Over commerciële verwachtingen
 - *"Wat is jullie eerlijke inschatting van wat Dar Group plus TechDesk in jaar 1 kan binnenbrengen? En jaar 2, jaar 3?"*

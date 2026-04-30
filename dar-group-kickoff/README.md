@@ -34,6 +34,7 @@ Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert m
 | 08 | [Voorstel Bennani (TechDesk)](./08-voorstel-bennani.md) | Partnership-voorstel voor één-op-één gesprek |
 | 09 | [Model Vergelijking — A / B / C](./09-model-vergelijking.md) | Strategische beslissing: met of zonder Bennani als JV-partner |
 | 10 | [License Fee Deferral](./10-license-fee-deferral.md) | Bestaansrecht-mechanisme: 2 jaar of 15 klanten zonder license fees |
+| 11 | [Partnership Structure Options](./11-partnership-options.md) | 6 alternatieve samenwerkingsmodellen vergeleken |
 
 ## Volgorde van gebruik
 

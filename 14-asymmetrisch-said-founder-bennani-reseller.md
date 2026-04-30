@@ -65,6 +65,43 @@ Verwatering van 9,1% op alle bestaande partijen.
 | Optiepool | 5% | 4,5% |
 | Nieuwe investeerder | — | 9,1% |
 
+### 2.5 Cap table per klant-mijlpaal
+
+Aannames: Bennani oefent optie uit bij precies 25 klanten, groeironde €1M @ €8M pre-money bij 50 klanten met pool top-up naar 10%, Series B €3M @ €20M pre-money bij 100 klanten.
+
+| Aandeelhouder | Start | 10 kl. | 25 kl. *(Bennani exercise)* | 50 kl. *(groeironde)* | 100 kl. *(Series B)* |
+|---|---|---|---|---|---|
+| Inclufy BV | 55,0% | 55,0% | 49,5% | 41,5% | 35,6% |
+| Said | 25,0% | 25,0% | 22,5% | 18,8% | 16,2% |
+| Investeerder seed | 15,0% | 15,0% | 13,5% | 11,3% | 9,7% |
+| Bennani | 0% | 0% | 10,0% | 8,4% | 7,2% |
+| Investeerder groei | — | — | — | 11,1% | 9,6% |
+| Investeerder Series B | — | — | — | — | 13,0% |
+| Optiepool | 5,0% | 5,0% | 4,5% | 8,9% | 8,7% |
+
+### 2.6 Cash-waarde indicatief per mijlpaal
+
+Aangenomen waarderingen: €2M / €5M / €9M / €23M.
+
+| Aandeelhouder | 10 kl. (€2M) | 25 kl. (€5M) | 50 kl. (€9M) | 100 kl. (€23M) |
+|---|---|---|---|---|
+| Inclufy BV | €1,1M | €2,5M | €3,7M | €8,2M |
+| Said | €500k | €1,1M | €1,7M | €3,7M |
+| Investeerder seed | €300k | €675k | €1,0M | €2,2M |
+| Bennani | €0 | €500k *(na ~€400k aankoopprijs)* | €756k | €1,7M |
+| Investeerder groei | — | — | €1,0M | €2,2M |
+| Investeerder Series B | — | — | — | €3,0M |
+| Pool | €100k | €225k | €800k | €2,0M |
+
+### 2.7 Kritische observaties
+
+1. **Said verwatert van 25% naar 16,2%** tussen start en 100 klanten. Vetorecht boven 20% verwatering is daarom essentieel — anders kan hij ongecontroleerd verwateren bij elke ronde.
+2. **Inclufy BV verliest controlemeerderheid bij 25 klanten** (49,5%). Reserved-matter drempels (50%+1, 75%) belangrijker dan absolute meerderheid.
+3. **Bennani's 10%-optie kost ~€400-500k** afhankelijk van waardering bij uitoefening. Realistisch financierbaar via earn-out tegen toekomstige commissies, niet via cash. Contractueel structureren als gefaseerde aankoop.
+4. **Pool van 5% niet genoeg voor groeifase** — top-up naar 10% bij 50 klanten verdunt iedereen extra ~5%.
+5. **Said's 5% retention-vest is volledig gevest bij 50 klanten** (jaar 4). Vanaf dan is zijn volledige 25% niet meer forfeitable behalve bij grove malversatie.
+6. **Bij geen Bennani-exercise** blijft cap table simpeler — iedereen behoudt startpositie minus latere ronde-verwateringen.
+
 ---
 
 ## 3. Said — peer founder voorwaarden

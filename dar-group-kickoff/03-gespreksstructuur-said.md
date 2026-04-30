@@ -86,6 +86,17 @@ Dit is het belangrijkste deel. **Stel deze vragen, laat Said praten, schrijf op.
 - *"Bennani heeft naast TechDesk ook een Ricoh-distributorship. Hoe zie jij dat in relatie tot zijn rol in de JV — qua tijd, qua focus, qua mogelijke synergie met de bestaande B2B-klantbase?"*
 - *"Is Bennani werknemer bij TechDesk of mede-eigenaar? En welke entiteit wordt aandeelhouder in de JV — TechDesk, Bennani persoonlijk, of de Ricoh-entiteit?"*
 
+### Over Bennani's rol in de structuur (strategische optie)
+
+Stel deze vraag rustig en neutraal — geen impliciete kritiek op Bennani.
+
+- *"Said, voordat we structuur finaliseren wil ik graag met jou doornemen hoe Bennani's rol er concreet uitziet. Voor mij is belangrijk dat elke aandeelhouder substantieel commitment levert — cash, tijd, en een unieke bijdrage. Mijn vraag is niet **of** Bennani meedoet — die kan zijn. Mijn vraag is **in welke vorm**: als JV-aandeelhouder met operationele rol, als reseller met commissie, of als channel partner zonder governance-rol? Wat is volgens jou de beste vorm gezien zijn werkelijke commitment en bijdrage?"*
+
+**Wat je luistert:**
+- Vasthoudendheid aan aandeelhouderschap → Said voelt zich verplicht of ziet werkelijke waarde
+- Openheid voor andere vorm → ruimte voor Model B of C
+- Verrassing → hij had niet over alternatieven nagedacht; geef hem tijd om erover na te denken
+
 ### Over commerciële verwachtingen
 - *"Wat is jullie eerlijke inschatting van wat Dar Group plus TechDesk in jaar 1 kan binnenbrengen? En jaar 2, jaar 3?"*
 - *"Welke klanten in jullie bestand zien jullie als directe Inclufy-prospects?"*

@@ -29,9 +29,10 @@ Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert m
 
 | # | Document | Doel |
 |---|---|---|
-| 06 | [Voorstel Investeerder](./06-voorstel-investeerder.md) | Volledig investeringsvoorstel voor de JV |
+| 06 | [Voorstel Investeerder](./06-voorstel-investeerder.md) | Volledig multi-region investeringsvoorstel |
 | 07 | [Voorstel Said (Dar Group)](./07-voorstel-said.md) | Partnership-voorstel als basis voor strategisch gesprek |
 | 08 | [Voorstel Bennani (TechDesk)](./08-voorstel-bennani.md) | Partnership-voorstel voor één-op-één gesprek |
+| 09 | [Model Vergelijking — A / B / C](./09-model-vergelijking.md) | Strategische beslissing: met of zonder Bennani als JV-partner |
 
 ## Volgorde van gebruik
 

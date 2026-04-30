@@ -12,11 +12,21 @@ Inclufy zet **meerdere regionale entiteiten** op. Deze kickoff betreft uitsluite
 | Entiteit | Aandeelhouders | Status |
 |---|---|---|
 | Inclufy BV (NL) | Inclufy alleen — NL-markt zonder externe partners | Bestaat |
-| **Inclufy Marokko/Afrika** | Inclufy + Said (Dasa/Dar Group) + Bennani (TechDesk) + investeerder | **Start nu** |
+| **Inclufy Marokko/Afrika** | Inclufy + Said (+ Bennani?) + investeerder | **Start nu — model TBD** |
 | Inclufy Midden-Oosten | Inclufy + lokale partners TBD + investeerder | Verkenning |
 | Inclufy USA | Inclufy + lokale USA-partner + investeerder | Verkenning |
 
-Said en Bennani zijn aandeelhouders in **uitsluitend de Marokko/Afrika-entiteit**. Investeerder participeert in meerdere regio's.
+## Twee modellen voor Marokko/Afrika
+
+Er liggen **twee structurele opties** op tafel — beslissing pas na één-op-één met Bennani:
+
+- **Model A — met Bennani als JV-partner**: Inclufy + Said + Bennani + investeerder (3 founders + investeerder).
+- **Model B — zonder Bennani**: Inclufy + Said + investeerder (2 founders + investeerder).
+- **Model C — hybride**: JV als Model B, Bennani als reseller met commissie zonder aandelen.
+
+**Zie [09-model-vergelijking.md](./09-model-vergelijking.md) voor volledige analyse en beslissingsmatrix.**
+
+Investeerder participeert sowieso. Said sowieso. Bennani's vorm is de variabele.
 
 ---
 

@@ -325,4 +325,86 @@ Said moet begrijpen: zijn 25% zit in de **JV**, niet in Inclufy BV. De royalty's
 
 ---
 
+## 12. Kostenallocatie Inclufy BV ↔ JV MENA
+
+### 12.1 Wie betaalt welke kosten
+
+| Kostenpost | Inclufy BV | JV MENA | Toelichting |
+|---|---|---|---|
+| Hosting (AWS/Azure platform) | ✓ | | Gecentraliseerd, schaalt met users wereldwijd |
+| Platform R&D / engineering | ✓ | | Doorontwikkeling, security, features |
+| Tier 2/3 technische support | ✓ | | NL-engineers, complexe issues |
+| Brand & global marketing | ✓ | | Merkconsistentie wereldwijd |
+| IP-bescherming (octrooien, trademarks) | ✓ | | BV is eigenaar |
+| Salaris NL-leiding | ✓ | | Niet door JV gedragen |
+| Kantoor MA (Casablanca/Rabat) | | ✓ | |
+| Legal & admin MA | | ✓ | Boekhouding, compliance, Loi 09-08 |
+| Sales-team JV | | ✓ | Salarissen + interne commissies |
+| Implementatie-team JV | | ✓ | Delivery consultants |
+| Consultancy-team JV | | ✓ | Senior advisors |
+| Lokale marketing MENA | | ✓ | Arabisch/Frans, lokale events |
+| Tier 1 customer success | | ✓ | Lokale taal, eerstelijns |
+| Lokalisaties (vertalingen, content MA) | | ✓ (work-for-hire, vergoed door BV) | BV bezit, JV maakt en factureert |
+| Bennani commissies | | ✓ | Externe reseller |
+| Salaris Said (CEO) | | ✓ | Marktconform MA |
+| Travel BV→MA | ✓ | | Tenzij specifiek JV-project, dan splitsen |
+| Travel JV→NL | | ✓ | Tenzij BV-gefaciliteerde training |
+| Verzekeringen JV | | ✓ | Aansprakelijkheid, zakelijk MA |
+
+### 12.2 P&L JV jaar 1 — realistisch scenario (€1M omzet)
+
+Mix-aanname: 60% subscription, 25% implementatie, 10% consultancy, 5% academy.
+
+| Post | Bedrag | % omzet |
+|---|---|---|
+| Bruto omzet | €1.000.000 | 100% |
+| Royalty naar Inclufy BV (blended ~18%) | -€180.000 | -18% |
+| Sales-team (2 FTE incl. social charges MA) | -€120.000 | -12% |
+| Delivery-team implementatie/consultancy (3 FTE) | -€180.000 | -18% |
+| Customer success tier 1 (1 FTE) | -€40.000 | -4% |
+| Said salaris als CEO | -€60.000 | -6% |
+| Lokale marketing | -€60.000 | -6% |
+| Kantoor + admin + legal MA | -€80.000 | -8% |
+| Bennani commissies (30% van omzet via hem) | -€90.000 | -9% |
+| **EBITDA JV** | **€190.000** | **19%** |
+
+**Break-even JV: ~€600k omzet.** Daaronder bijstorting werkkapitaal nodig.
+
+### 12.3 P&L Inclufy BV — MENA-deel jaar 1
+
+| Post | Bedrag |
+|---|---|
+| Royalty inkomsten van JV | €180.000 |
+| Hosting allocatie (proportioneel users MENA) | -€40.000 |
+| R&D allocatie (15% wereldwijde R&D) | -€70.000 |
+| Tier 2/3 support tijd MENA | -€25.000 |
+| Brand marketing toerekening | -€15.000 |
+| **Netto bijdrage MENA aan Inclufy BV** | **€30.000** |
+
+BV verdient jaar 1 weinig cash. Doel: strategische expansie + IP-waarde-stijging. Vanaf jaar 3 bij €3M+ omzet → bijdrage BV ~€400k+.
+
+### 12.4 Kostenrisico's en mitigatie
+
+| Risico | Mitigatie |
+|---|---|
+| Hosting schaalt sneller dan royalty (grote klanten met lage prijs) | Royalty-floor per actieve user, bijv. €15/user/maand minimum |
+| Sales-team JV te duur bij lage omzet | Bennani-reseller verschuift kost van vast naar variabel; gefaseerde sales-groei aan ARR-mijlpalen koppelen |
+| Delivery-marges lager dan model (projecten lopen uit) | Time-and-materials default voor consultancy; vaste prijs alleen bij strakke scope + change-order proces |
+| Transfer-pricing audit NL of MA | Transfer-pricing study door Big-4 firm vóór launch; jaarlijkse documentatie; benchmark tegen SaaS JV's |
+| Said wil royalty heronderhandelen bij tegenvaller | Royalty-percentages contractueel vast voor 5 jaar; renegotiation alleen bij gedefinieerde events (price war, regulatory change) |
+
+### 12.5 Implicatie voor gesprek met Said
+
+Said moet drie cijfers begrijpen vóór hij tekent:
+
+1. **JV jaar 1 EBITDA-marge ~19% bij €1M omzet** — niet rijk, wel houdbaar
+2. **Break-even ~€600k omzet** — daarboven groeit marge, daaronder bijstorting nodig
+3. **25% × €190k = €47k papieren-resultaat** — niet uitkeerbaar jaar 1 (cashflow voor groei), wel reëel als waarde-opbouw
+
+**Eerlijke framing:**
+
+> *"Said, dit is geen quick-money-deal. Jaar 1 financieren we werkkapitaal uit jouw €50k + investeerder. Pas vanaf jaar 2-3 zien we cash-uitkeerbare winsten. Daarom is jouw 25% direct gevest — je risico in fase 1 is reëel. En daarom is jouw salaris als CEO marktconform — niet hoog, maar genoeg om hier 24/7 op te kunnen werken."*
+
+---
+
 *Volgende update na gesprek Said.*

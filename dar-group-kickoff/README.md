@@ -36,6 +36,7 @@ Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert m
 | 10 | [License Fee Deferral](./10-license-fee-deferral.md) | Bestaansrecht-mechanisme: 2 jaar of 15 klanten zonder license fees |
 | 11 | [Partnership Structure Options](./11-partnership-options.md) | 6 alternatieve samenwerkingsmodellen vergeleken |
 | 12 | [Optie 6 Uitgelegd — Hybride Model](./12-optie-6-uitgelegd.md) | Stap-voor-stap walkthrough van het hybride model met voorbeelden |
+| 13 | [Investeerder vanaf Dag 1](./13-investeerder-vanaf-dag-1.md) | Vier varianten als de investeerder vanaf dag 1 instapt |
 
 ## Volgorde van gebruik
 

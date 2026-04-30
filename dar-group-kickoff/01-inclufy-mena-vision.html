@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inclufy MENA — Strategische Visie</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #0f1d3d;
+    --navy-soft: #1c2d56;
+    --amber: #d4a44a;
+    --amber-soft: #e9c272;
+    --emerald: #2f8a6d;
+    --emerald-soft: #4caa8a;
+    --paper: #fbf8f2;
+    --ink: #1a1f2e;
+    --muted: #5b6478;
+    --line: rgba(15, 29, 61, 0.12);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: 'DM Sans', system-ui, sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.5;
+    font-size: 15px;
+  }
+  .page {
+    max-width: 210mm;
+    min-height: 297mm;
+    margin: 0 auto;
+    padding: 22mm 20mm 18mm;
+    background: var(--paper);
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 14px;
+    margin-bottom: 22px;
+  }
+  .brand {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+    font-size: 26px;
+    color: var(--navy);
+    letter-spacing: 0.5px;
+  }
+  .brand span { color: var(--amber); }
+  .meta {
+    text-align: right;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--muted);
+  }
+  h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.15;
+    margin: 0 0 8px;
+    color: var(--navy);
+  }
+  h1 em {
+    font-style: italic;
+    color: var(--amber);
+    font-weight: 500;
+  }
+  .lede {
+    font-size: 16px;
+    color: var(--muted);
+    margin: 0 0 26px;
+    max-width: 90%;
+  }
+  h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--navy);
+    margin: 24px 0 10px;
+    border-left: 3px solid var(--amber);
+    padding-left: 10px;
+  }
+  .pillars {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin: 14px 0 24px;
+  }
+  .pillar {
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 14px 14px 12px;
+    background: #fff;
+    position: relative;
+  }
+  .pillar .num {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--amber);
+  }
+  .pillar h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 17px;
+    margin: 6px 0 6px;
+    color: var(--navy);
+    font-weight: 600;
+  }
+  .pillar p {
+    margin: 0;
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.45;
+  }
+  .pillar .tag {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 2px 8px;
+    background: rgba(47, 138, 109, 0.12);
+    color: var(--emerald);
+    border-radius: 999px;
+    font-size: 10.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+  }
+  .principles {
+    list-style: none;
+    padding: 0;
+    margin: 12px 0 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 22px;
+  }
+  .principles li {
+    display: flex;
+    gap: 10px;
+    font-size: 13.5px;
+    line-height: 1.45;
+  }
+  .principles .dot {
+    flex-shrink: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--emerald);
+    margin-top: 7px;
+  }
+  .principles strong {
+    color: var(--navy);
+    display: block;
+    font-weight: 600;
+    font-size: 13.5px;
+  }
+  .principles span {
+    color: var(--muted);
+    font-size: 12.5px;
+  }
+  .roles {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+    gap: 0;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+    margin: 12px 0 24px;
+    font-size: 12.5px;
+  }
+  .roles > div {
+    padding: 9px 12px;
+    border-right: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .roles > div:nth-child(4n) { border-right: none; }
+  .roles > div:nth-last-child(-n+4) { border-bottom: none; }
+  .roles .head {
+    background: var(--navy);
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    font-size: 11px;
+  }
+  .roles .row-label {
+    background: rgba(15, 29, 61, 0.04);
+    font-weight: 600;
+    color: var(--navy);
+  }
+  footer {
+    margin-top: 24px;
+    padding-top: 14px;
+    border-top: 1px solid var(--line);
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.6px;
+  }
+  footer .tag-line { color: var(--navy); font-weight: 600; }
+  @media print {
+    body { background: #fff; }
+    .page { box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="brand">Inclufy<span>.</span></div>
+    <div class="meta">Strategische Visie · Marokko 2026</div>
+  </header>
+
+  <h1>Marokko als eerste markt<br>in een <em>regionale ambitie</em>.</h1>
+  <p class="lede">Een gezamenlijke onderneming met lokale partners die klanten en sales inbrengen, gebouwd op IP en producten van Inclufy, met kapitaal voor groei in de bredere MENA-regio.</p>
+
+  <h2>De drie sporen</h2>
+  <div class="pillars">
+    <div class="pillar">
+      <div class="num">01</div>
+      <h3>Pilot Implementatie</h3>
+      <p>Dar Group als referentieklant. Finance core (GL, AP, AR, banking, TVA) op lokale server. Go-live binnen 90 dagen.</p>
+      <span class="tag">Start nu</span>
+    </div>
+    <div class="pillar">
+      <div class="num">02</div>
+      <h3>Commercial Framework</h3>
+      <p>Transfer pricing, marges, support-modellen, territoriale rechten. Operationeel kader voor de samenwerking.</p>
+      <span class="tag">4–6 weken</span>
+    </div>
+    <div class="pillar">
+      <div class="num">03</div>
+      <h3>JV &amp; Investering</h3>
+      <p>Juridische structurering met begeleiding aan beide kanten. Cap table, governance, vesting, exit-rechten.</p>
+      <span class="tag">8–12 weken</span>
+    </div>
+  </div>
+
+  <h2>Rolverdeling</h2>
+  <div class="roles">
+    <div class="head">Functie</div>
+    <div class="head">Inclufy</div>
+    <div class="head">Dar Group / TechDesk</div>
+    <div class="head">Investeerder</div>
+
+    <div class="row-label">Product &amp; IP</div>
+    <div>Eigenaar, licentie aan JV</div>
+    <div>—</div>
+    <div>—</div>
+
+    <div class="row-label">Kennis, training, implementatie</div>
+    <div>Levert via JV</div>
+    <div>Lokaal support team</div>
+    <div>—</div>
+
+    <div class="row-label">Sales &amp; klantrelaties</div>
+    <div>Tier 2/3 ondersteuning</div>
+    <div>Eigen kanaal &amp; klantbase</div>
+    <div>—</div>
+
+    <div class="row-label">JV-management</div>
+    <div>Board-vertegenwoordiging</div>
+    <div>Operationele leiding</div>
+    <div>Board-vertegenwoordiging</div>
+
+    <div class="row-label">Kapitaal</div>
+    <div>Cash-inleg + IP-licentie</div>
+    <div>Cash-inleg + value-bijdrage</div>
+    <div>Groeikapitaal getranchet</div>
+  </div>
+
+  <h2>Samenwerkings-principes</h2>
+  <ul class="principles">
+    <li><span class="dot"></span><div><strong>IP blijft bij Inclufy BV</strong><span>De JV krijgt licentie voor het afgesproken territorium. Dat houdt de structuur financierbaar en schaalbaar.</span></div></li>
+    <li><span class="dot"></span><div><strong>Aandelen volgen contributie</strong><span>Cash-inleg, IP-licentie, klanten, sales-capaciteit en management — elk met heldere waardering en vesting over tijd.</span></div></li>
+    <li><span class="dot"></span><div><strong>Pilot bewijst het model</strong><span>Eerst samen leveren, daarna pas formele structuur. Een succesvolle pilot verhoogt waarde voor alle partijen.</span></div></li>
+    <li><span class="dot"></span><div><strong>Drie sporen, één richting</strong><span>Pilot, commercial framework en JV lopen parallel maar elk met eigen tempo en proces.</span></div></li>
+    <li><span class="dot"></span><div><strong>Exclusiviteit gekoppeld aan commitments</strong><span>Wederzijdse exclusiviteit voor het territorium, met heldere targets en herzieningsmomenten.</span></div></li>
+    <li><span class="dot"></span><div><strong>Investeerder financiert de JV</strong><span>Niet Inclufy BV. Kapitaal voor groei en versnelling, op de drie-partijen-fundament.</span></div></li>
+  </ul>
+
+  <footer>
+    <div class="tag-line">Inclufy · Vision &amp; Discipline</div>
+    <div>Voorbereid voor strategisch overleg · Vertrouwelijk</div>
+  </footer>
+</div>
+</body>
+</html>

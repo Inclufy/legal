@@ -35,6 +35,7 @@ Dit pakket richt zich op de Marokko/Afrika-entiteit. Investeerder participeert m
 | 09 | [Model Vergelijking — A / B / C](./09-model-vergelijking.md) | Strategische beslissing: met of zonder Bennani als JV-partner |
 | 10 | [License Fee Deferral](./10-license-fee-deferral.md) | Bestaansrecht-mechanisme: 2 jaar of 15 klanten zonder license fees |
 | 11 | [Partnership Structure Options](./11-partnership-options.md) | 6 alternatieve samenwerkingsmodellen vergeleken |
+| 12 | [Optie 6 Uitgelegd — Hybride Model](./12-optie-6-uitgelegd.md) | Stap-voor-stap walkthrough van het hybride model met voorbeelden |
 
 ## Volgorde van gebruik
 

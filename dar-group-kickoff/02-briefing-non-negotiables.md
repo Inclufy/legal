@@ -138,6 +138,15 @@ Niet onderhandelbaar. Geen JV met iemand die ik niet onafhankelijk ken.
 
 Implementation fee per klant óf intercompany rate per uur. Niet "onderdeel van de licentie" — anders ben ik in jaar 2 de gratis bottleneck.
 
+### 9. License Fee Deferral — bestaansrecht-mechanisme
+
+Eerste 2 jaar of 15 betalende klanten (whichever first): JV betaalt €0 license fees aan Inclufy. Implementation fees blijven betaalbaar. Versterkt JV-runway met 50–80%, signaleert founder commitment. Drie randvoorwaarden niet-onderhandelbaar:
+- Implementation fees blijven door (delivery-werk wordt betaald)
+- "Whichever first" trigger (niet "whichever last")
+- Klant-definitie strikt: paying, distinct, active, ≥€500/maand ARR, exclusief Dar Group pilot
+
+Zie [09 model-vergelijking](./09-model-vergelijking.md) en [10 license-fee-deferral](./10-license-fee-deferral.md) voor detail.
+
 ---
 
 ## Rode vlaggen om in de gaten te houden — overmorgen

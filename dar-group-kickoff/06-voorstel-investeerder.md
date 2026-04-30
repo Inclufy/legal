@@ -13,8 +13,9 @@ Inclufy biedt een geïnvesteerde gelegenheid om mede-aandeelhouder te worden in 
 - **Inclufy BV (NL)** blijft mondiale IP-houder. NL-markt wordt door Inclufy zelfstandig bediend zonder partners.
 - **Inclufy Marokko/Afrika** — JV met Said (Dasa/Dar Group) en Bennani (TechDesk) als operationele partners. **Eerste regionale entiteit, start nu.**
 - **Inclufy Midden-Oosten** — verkenningsfase. Lokale partners te identificeren.
-- **Inclufy USA** — Inclufy + investeerder, geen lokale operationele partners. Gericht op direct sales en partner-channel in volwassen markt.
-- **Investeerder** participeert in **alle drie regionale entiteiten** (Marokko/Afrika nu, MO en VS volgend) tegen een gefaseerd commitment.
+- **Inclufy USA** — Inclufy + lokale USA-partner + investeerder. Gericht op direct sales en partner-channel in volwassen markt.
+- **Investeerder** participeert in **meerdere regionale entiteiten** (Marokko/Afrika nu, MO en USA volgend) tegen een gefaseerd commitment.
+- **License fee deferral**: Inclufy keert in Marokko/Afrika de eerste 2 jaar of 15 klanten **geen license fees** uit aan zichzelf — alle license-omzet blijft in de JV om bestaansrecht op te bouwen. Implementation fees blijven betaalbaar. Dit verhoogt JV-runway met 50–80% en signaleert founder commitment.
 
 ---
 
@@ -113,7 +114,19 @@ Allocatie afhankelijk van marktgereedheid en mijlpalen per regio.
 | Investeerder | 12–18% | Cash voor groei |
 | Pool toekomst | 5% | Reserve voor key hires |
 
-### 4.4 Use of funds — Marokko/Afrika (€200k–€300k)
+### 4.4 License Fee Deferral — Founder Commitment
+
+**Inclufy keert de eerste 2 jaar of 15 betalende klanten (whichever first) geen license fees aan zichzelf uit.** Alle license-omzet blijft in de JV om bestaansrecht op te bouwen.
+
+- **Implementation fees blijven betaalbaar** — Inclufy wordt voor delivery-werk betaald per klant.
+- **Trigger**: 24 maanden vanaf JV-oprichting OF 15 betalende klanten (≥€500/maand ARR), exclusief pilot Dar Group.
+- **Transitie**: gefaseerde rampup over 6 maanden van 0% → 45% transfer price.
+- **Effect op runway**: +50–80% extra cash in JV-kas zonder extra kapitaal van investeerder.
+- **Inclufy's foregone revenue**: indicatief €124k over 2 jaar — beschouwd als investering in JV-success.
+
+Dit versterkt **kapitaalefficiëntie** van de investering, **verlaagt break-even risico** en signaleert **founder commitment**.
+
+### 4.5 Use of funds — Marokko/Afrika (€200k–€300k)
 
 | Categorie | Allocatie |
 |---|---|
@@ -230,6 +243,9 @@ Investeerder kan in elke regionale entiteit kiezen voor stille positie of actiev
 | USA-markt te concurrerend | Lichtere setup, kan opgeschaald of stopgezet zonder grote afhankelijkheden |
 | Multi-entity complexity | Inclufy BV als gemeenschappelijke holding; juridisch advies van NL én lokale advocaten per markt |
 | Investeerder niet door alle tranches | Tranche-clausule per regio met clear performance gates |
+| JV blijft <15 klanten na 2 jaar | Deferral eindigt sowieso na 24 maanden; Inclufy begint dan met transfer pricing |
+| JV-deals onder marktprijs voor kunstmatige trigger | Min ARR per klant in deferral-definitie (≥€500/maand) |
+| Acquisitie JV vóór trigger | Change-of-control clausule beëindigt deferral direct |
 
 ---
 

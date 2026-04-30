@@ -123,6 +123,9 @@ Voorstel om in ons gesprek door te lopen:
 - Looptijd 5 jaar, automatisch verlengbaar.
 - IP blijft 100% bij Inclufy BV — niet onderhandelbaar, voor de financierbaarheid van de JV.
 
+### License Fee Deferral
+Inclufy keert **eerste 2 jaar of 15 betalende klanten geen license fees uit aan zichzelf** — alle license-omzet blijft in de JV om bestaansrecht op te bouwen. Implementation fees blijven betaalbaar. Dit verhoogt JV-runway met 50–80% en maximaliseert de prikkel om snel klanten te winnen.
+
 ### Governance
 - TechDesk krijgt **1 board-zetel** (van 4–5 leden).
 - Reserved matters voor strategische beslissingen.

@@ -63,7 +63,17 @@ Marokkaanse SARL of SA, te bepalen op fiscale en governance-overwegingen samen m
 - Inclufy BV verleent exclusieve licentie aan de JV voor commercialisatie in **Marokko en gedefinieerde Afrikaanse landen** (initiële lijst af te stemmen, verlengbaar bij prestatiemilestones).
 - **Geen exclusiviteit voor Midden-Oosten of USA** — die markten worden door aparte regionale entiteiten bediend met andere lokale partners.
 - Looptijd: **5 jaar**, automatisch verlengbaar.
-- Royalty-vrij voor de JV — de transfer price op licentie-inkoop dekt Inclufy's vergoeding.
+
+### 4.4 License Fee Deferral — bestaansrecht voor de JV
+
+> Founder commitment van Inclufy om de JV maximale ruimte te geven om operationeel succes te bewijzen.
+
+- **Eerste 2 jaar OF 15 betalende klanten** (whichever first): JV betaalt **€0 license fees** aan Inclufy. Alle license-omzet blijft in de JV.
+- **Implementation fees blijven** betaalbaar voor delivery-werk per klant.
+- **Definitie 15 klanten**: paying customers (≥€500/maand ARR), distinct entities, active contracts, exclusief Dar Group als pilot.
+- **Transitie**: gefaseerde rampup over 6 maanden van 0% naar standaard transfer price.
+- **Effect voor JV**: ~€124k extra cash in jaar 1–2, +50–80% runway-boost.
+- **Voor partners**: maximale prikkel om snel klanten te winnen — elke deal blijft volledig in de JV.
 
 ### 4.4 Aandelenstructuur (indicatief)
 

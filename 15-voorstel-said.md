@@ -28,7 +28,7 @@ Vijf partijen rond tafel:
 | Partij | Rol | Aandeel |
 |---|---|---|
 | Inclufy BV (NL) | IP, brand, platform, NL-leiding | 50% |
-| **Jij** (Dasa/Dar BV) | **Chairman, operationeel anker, netwerk** | **20%** |
+| **Jij** (Dasa/Dar BV) | **Business Partner — Sales & Business Development MA** | **20%** |
 | Siham Loukile | CEO operationeel | 10% |
 | Khalid | Investeerder + lead customer NL | 10% |
 | Bennani (Techdesk/Ricoh) | Channel-partner | 5% (earn-up tot 10%) |
@@ -38,93 +38,141 @@ Totaal kapitaal-inleg in eerste 3 jaar: €575k cash + IP/brand van Inclufy. Gee
 
 ---
 
-## Jouw rol
+## Waarom jouw positie uniek is
 
-### Jaar 1-2 — actief betrokken Chairman
+Ik wil dit eerst expliciet maken voor ik over rolverdeling praat:
 
-- **Voorzitter Raad van Bestuur** van de JV
-- **Government & SOE-relaties** in MA primair via jou (OCP, ONCF, ministeries, regionale overheden)
-- **Established enterprise** in Casablanca en Rabat — jouw bestaande netwerk
-- **Strategisch klankbord** voor Siham als CEO — minimaal maandelijks gesprek
-- **Co-ondertekenaar** van government-contracten eerste 12 maanden (jouw naam opent deuren die anders koud zijn)
-- **Tijdsbesteding: minimum 8 dagen per maand** — niet meer, niet minder
+**Alle Marokkaanse prospects komen op dit moment via jou.** Chaabi (Aswak Assalam, Hotel Mogador, Ynna Holding) is in beeld via jouw netwerk. Andere MA-enterprise prospects, government-relaties, alles wat we op dit moment in pipeline hebben — loopt via jou.
 
-### Vanaf maand 25 — Chairman op afstand
+Dat betekent dat de JV in jaar 1 zonder jouw actieve betrokkenheid **geen omzet** heeft. Siham brengt commerciële executie, Khalid brengt kapitaal en NL-validatie, Bennani brengt later zijn eigen Techdesk/Ricoh-pipeline. Maar **de eerste deals — de deals die de JV waarmaken — komen via jou**.
 
-- Strategische rol, ~3-5 dagen per maand
-- Siham draagt operationele besluitvorming zelfstandig
-- Jij blijft betrokken bij key-deals en grote strategische keuzes
-- Said BV blijft aandeelhouder
+Dat is niet "Chairman op afstand." Dat is de **kern van de waarde** in de eerste 24 maanden.
 
-**Hard punt:** je rol jaar 1-2 is operationeel-betrokken, niet ceremonieel. Zonder jouw aanwezigheid en netwerk haalt de JV geen government-deals binnen.
+Daarom heb ik mijn voorstel zo opgebouwd dat:
+1. Je equity je niet alleen positie geeft, maar groei kan hebben gekoppeld aan wat je werkelijk levert
+2. Je compensatie-mechanisme directe waarde-realisatie heeft, geen wachten tot een ver exit-moment
+3. Je veto-rechten je beschermen tegen verwatering en strategische shifts waar jij niet achter staat
+
+Dit is mijn manier om concreet te maken dat ik weet wat jij brengt, en dat we eerlijk omgaan met de asymmetrie.
 
 ---
 
-## Jouw pakket
+## Jouw rol
 
-### Equity — 20% via Said BV (Dasa/Dar)
+### Jaar 1-2 — Business Partner: Sales & Business Development
+
+Jij bent de **commerciële motor** van de JV in MA. Concreet:
+
+- **Pipeline-ownership**: alle MA-prospects komen via jou op dit moment — Chaabi (Aswak, Mogador, Ynna), government, established enterprise Casablanca/Rabat
+- **Deal-leadership**: jij leidt sales-cycle van eerste contact tot close, met Siham als operationele rugdekking
+- **Key account management**: jij blijft primair gezicht naar door-jou-gebrachte klanten
+- **Government & SOE-relaties**: OCP, ONCF, ministeries, regionale overheden — uitsluitend via jou
+- **Co-ondertekenaar** van strategische contracten eerste 12 maanden — jouw naam opent deuren die anders koud zijn
+- **Board-zetel** met strategische zeggenschap
+- **Tijdsbesteding**: minimum 10 dagen per maand jaar 1-2
+
+### Vanaf maand 25 — Senior Partner
+
+- Sales-leadership op key accounts en strategische deals
+- 5-8 dagen per maand
+- Operationele sales geleidelijk overgedragen aan dedicated sales-team onder Siham
+- Said BV blijft aandeelhouder met onverminderde rechten
+
+**Hard punt:** dit is geen Chairman-rol. Dit is operationele commerciële verantwoordelijkheid. Zonder jouw deals heeft de JV in jaar 1 geen omzet.
+
+---
+
+## Jouw pakket — twee sporen parallel
+
+Jij krijgt **twee dingen tegelijk**: een verdienmodel (cash op deals die je brengt) én een investeringsmogelijkheid (substantieel aandeelhouderschap). Dit zijn geen alternatieven — ze lopen samen.
+
+---
+
+### Spoor 1 — Verdienmodel (cash via sales-commissie)
+
+Als Business Partner Sales verdien je direct op elke deal die je brengt:
+
+| Type revenue | Commissie | Duur |
+|---|---|---|
+| Eerste-jaars subscription / contractwaarde | **8%** | Eenmalig na klant-betaling |
+| Tweede-jaars renewals | **4%** | Eenmalig na renewal |
+| Implementation fees op door-jou-gebrachte projecten | **5%** | Bij oplevering |
+| Vanaf jaar 3 | 0% — klant gaat naar standaard customer success | |
+
+**Uitbetaling:** in cash binnen 60 dagen na klant-betaling, via Said BV (Dasa/Dar).
+
+**Voorbeeld Chaabi-groep:**
+Als groep-contract jaar 1 op €200k landt: jij ontvangt **€16.000 cash binnen 60 dagen**.
+Jaar 2 renewal: nog eens €8.000.
+
+**Realistische jaar-1 commissie-projectie:**
+
+| Sales-prestatie | Commissie cash jaar 1 |
+|---|---|
+| 3 deals × €100k gem. | €24.000 |
+| 5 deals × €100k gem. | €40.000 |
+| 5 deals × €150k gem. | €60.000 |
+| 5 deals × €200k gem. (Chaabi + 4 anderen) | €80.000 |
+
+Dit is **directe cash voor jou** — geen wachten op exit, geen afhankelijkheid van JV-EBITDA.
+
+---
+
+### Spoor 2 — Investeringsmogelijkheid (equity 20% via Dasa/Dar BV)
+
+Naast de cash-verdienste neem je een **substantieel investerings-belang** in de JV:
 
 | Component | Volume | Vesting |
 |---|---|---|
-| Directe vesting | 18% | Dag 1 — reflecteert 10+ jaar werkrelatie, bewezen netwerk, strategische bijdrage |
-| Retention-vest | 2% | Lineair over 24 maanden — geforfeit bij vroegtijdige terugtrekking jaar 1-2 |
+| Directe vesting | 18% | Dag 1 — reflecteert 10+ jaar werkrelatie, bewezen netwerk |
+| Retention-vest | 2% | Lineair over 24 maanden |
+| **Pipeline earn-up** | **+4% max** | **1% per €500k ARR brought-by-Said, uit pool** |
 
-**Vetorechten:**
+**Earn-up details:**
+
+| ARR brought-by-Said | Equity Said BV |
+|---|---|
+| €0 - €499k | 20% |
+| €500k | 21% |
+| €1M | 22% |
+| €1,5M | 23% |
+| €2M+ | 24% (max) |
+
+Attributie via CRM binnen 30 dagen van eerste contact, geverifieerd door Inclufy BV.
+
+**Cash inleg voor investering: €50.000** via Said BV bij closing.
+
+**Vetorechten op jouw investering:**
 - Verwatering boven 18%
 - Vervanging CEO
 - Verandering jouw rol of equity
 - Verkoop kern-IP
 
-### Cash inleg — €50.000
+**Optioneel — secondary sale-recht**: bij volgende investeringsronde (maand 18-24) recht om tot 5% van jouw aandelen direct te verkopen aan nieuwe investeerder, voor cash-realisatie €80-100k indien gewenst.
 
-Via Said BV bij closing. Twee functies:
-1. Commitment-bewijs voor de andere partijen
-2. Initial werkkapitaal voor JV
+---
 
-### Geen JV-salaris of consultancy-fee
+### Wat de twee sporen samen opleveren — eerlijke projectie
 
-Dit is een bewuste keuze, niet een bezuiniging op jou:
+**Realistisch scenario** (5 deals jaar 1, groei naar €1,5M ARR jaar 5, exit €23M jaar 5):
 
-- JV jaar 1-2 moet kapitaalefficiënt zijn — elke cash-out vertraagt break-even
-- Jij hebt inkomstenstromen elders via je eigen BV — je hoeft niet van JV te leven
-- Jouw beloning komt uit equity-groei, niet uit maandelijkse cashflow
-
-**Maar:** ik begrijp dat 24 maanden operationele inzet zonder cash-vergoeding stevig is. Daarom drie compensatie-mechanismen waar jij uit kiest.
-
-### Compensatie-mechanisme — kies één
-
-**Optie A — Secondary sale recht** *(mijn voorkeur voor jou)*
-
-Bij volgende investeringsronde (verwacht maand 18-24) heb je het recht om tot 5% van jouw aandelen direct aan de nieuwe investeerder te verkopen.
-
-| Bij groeironde | Jouw cash-realisatie |
+| Spoor | Bedrag over 5 jaar |
 |---|---|
-| €1M @ €8M post-money | ~€80k cash |
-| €1M @ €10M post-money | ~€100k cash |
-| €2M @ €10M post-money | ~€100k cash |
+| Sales-commissies (jaar 1-2 op brought-by-Said deals) | €150-200k cash |
+| Earn-up equity (groei van 20% naar 23%) | Reflecteert in exit-waarde |
+| Exit-equity (23% verwaterd tot ~18% op €23M) | €4,1M |
+| **Totaal cash + paper over 5 jaar** | **€4,3M+** |
 
-Concrete cash binnen 24 maanden zonder dat je je aandeelhouderschap verliest (alleen jouw stake wordt iets kleiner).
+**Sterk scenario** (Chaabi + 6 grote deals jaar 1, €2M+ ARR jaar 5, exit €40M+):
 
-**Optie B — Performance-equity uit pool**
+| Spoor | Bedrag |
+|---|---|
+| Sales-commissies | €250-400k cash |
+| Earn-up tot 24% equity | Volledig benut |
+| Exit-equity (24% verwaterd ~19%) | €7,6M |
+| **Totaal** | **€8M+** |
 
-Bij JV-milestone €500k ARR jaar 2: jij krijgt 1% extra equity uit pool.
-Bij milestone €1M ARR jaar 3: nog 1% extra.
-
-Totaal kan jouw stake groeien van 20% naar 22% bij sterke performance. Geen cash, wel meer paper-waarde bij exit.
-
-**Optie C — Dividend-recht**
-
-Vanaf cashflow-positief moment (verwacht jaar 3): 25% van EBITDA wordt jaarlijks als dividend uitgekeerd.
-
-| Jaar | EBITDA verwacht | Jouw dividend (20% × 25%) |
-|---|---|---|
-| Jaar 3 | €50-100k | €2.500-5.000 |
-| Jaar 4 | €200-400k | €10.000-20.000 |
-| Jaar 5 | €500k+ | €25.000+ |
-
-Recurring cashflow, maar bedragen klein in vroege jaren.
-
-**Mijn aanbeveling: A.** Tastbaar, concreet, binnen redelijke tijd. Maar jij kiest wat past bij jouw situatie.
+**Geen JV-salaris of consultancy-fee** — de twee sporen samen vormen jouw beloning. Dit houdt de JV kapitaalefficiënt en jouw inkomsten direct gekoppeld aan jouw prestatie.
 
 ---
 
@@ -254,22 +302,23 @@ Geen druk om snel te tekenen. Wel: hoe sneller wij twee aligned zijn, hoe snelle
 
 ## Wat ik van jou vraag
 
-Niet alleen een handtekening — actieve betrokkenheid:
+Niet alleen een handtekening — actieve commerciële verantwoordelijkheid:
 
-1. **24 maanden operationeel anker** met minimum 8 dagen/maand
-2. **5 jaar substantieel committed** (waarna Chairman op afstand)
-3. **€50k cash inleg** via Said BV binnen 30 dagen van closing
-4. **Co-leiderschap met Siham** — niet hierarchisch, complementair
-5. **Eerlijke feedback** als iets niet werkt — niet stilzwijgend terugtrekken
-6. **Goodwill** richting de andere partijen, vooral Siham als nieuwe persoon in jullie werkelijkheid
+1. **24 maanden actieve sales-rol** met minimum 10 dagen/maand
+2. **Pipeline-target jaar 1**: minimum 5 gekwalificeerde prospects in CRM, minimum 3 deals gesloten
+3. **5 jaar substantieel committed** (waarna senior-partner-rol op afstand)
+4. **€50k cash inleg** via Said BV binnen 30 dagen van closing
+5. **Co-leiderschap met Siham** — jij commercieel, zij operationeel — complementair, niet concurrerend
+6. **Eerlijke feedback** als iets niet werkt — niet stilzwijgend terugtrekken
+7. **Goodwill** richting de andere partijen, vooral Siham als nieuwe persoon in jullie werkelijkheid
 
 ## Wat ik aanbied
 
 1. **20% equity** met sterke vesting-bescherming
-2. **Chairman-positie** met echte strategische zeggenschap
-3. **Compensatie-mechanisme** naar jouw keuze (A, B of C)
-4. **Vetorechten** op kritieke besluiten
-5. **Projecteerde exit-waarde** €1,5-3,1M over 5 jaar in realistisch tot sterk scenario
+2. **Business Partner-positie** met operationele commerciële zeggenschap
+3. **Compensatie-mechanisme** naar jouw keuze (A, B, C of combinatie A+B)
+4. **Board-zetel** met vetorechten op kritieke besluiten
+5. **Projecteerde totale opbrengst** €1,8M-3,7M+ over 5 jaar afhankelijk van sales-prestatie
 6. **Mijn volledige commitment** aan deze samenwerking — Inclufy BV staat achter de JV met IP, brand, kapitaal en mijn tijd
 
 ---
@@ -279,13 +328,11 @@ Niet alleen een handtekening — actieve betrokkenheid:
 **1. Akkoord met Siham als CEO?**
 Heb je twijfels, zie je risico's, of vind je het werkbaar? Eerlijk antwoord nu is belangrijker dan beleefd antwoord straks.
 
-**2. Welke compensatie-optie (A, B of C)?**
-A = secondary sale (concrete cash maand 18-24)
-B = performance-equity (meer aandelen bij groei)
-C = dividend (recurring cashflow vanaf jaar 3)
+**2. Akkoord met de dubbele structuur — verdienmodel (commissie) + investering (20% + earn-up)?**
+Of wil je het anders gewogen — bijvoorbeeld hogere commissie en lagere equity, of andersom?
 
-**3. Zijn 8 dagen per maand realistisch voor jou?**
-Of moet de structuur anders — bijvoorbeeld 5 dagen/maand met aangepaste equity, of 12 dagen/maand met aangepaste compensatie?
+**3. Zijn 10 dagen per maand realistisch voor jou jaar 1-2?**
+Of moet de structuur anders — bijvoorbeeld minder dagen met aangepaste rol, of meer dagen met aangepaste compensatie?
 
 ---
 

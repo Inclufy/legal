@@ -201,7 +201,13 @@ Te bepalen na scope-gesprek.
 | Jaar 3 | 44 | 76 | ~350 | ~26.600 | **€1.680.000** |
 | **3-jaar totaal** | **88** | | | | **€2.820.000** |
 
-### 7.2 Kostenstructuur (identiek aan model zonder Khalid)
+### 7.2 Kostenstructuur (ultra-lean — identiek aan model zonder Khalid)
+
+**Lean assumpties:**
+- **Geen personeel** — Said, Sami en Khalid doen alles zelf; Khalid focust op investeerder/board-rol
+- **Geen kantoor** — vanuit huis, klantbezoeken; co-working alleen pay-per-use
+- **Geen aparte software** — gebruik Inclufy BV's CRM en tools (gedekt door inkoop)
+- **Inclufy NL ondersteunt remote** — tier 2/3 support, implementation back-up via Inclufy BV (al gedekt in inkoop)
 
 | Post | Jaar 1 | Jaar 2 | Jaar 3 |
 |---|---|---|---|
@@ -209,10 +215,17 @@ Te bepalen na scope-gesprek.
 | Server-kosten | €10.000 | €32.000 | €63.000 |
 | Accountant kickbacks | €12.000 | €56.000 | €84.000 |
 | Partner kickback Bennani | €0 | €12.000 | €28.000 |
-| Operationele kosten MA | €35.000 | €75.000 | €145.000 |
-| Parttime support | €0 | €0 | €40.000 |
-| **Totale kosten** | **€113.500** | **€351.500** | **€701.000** |
-| **Winst MA BV** | **€166.500** | **€508.500** | **€979.000** |
+| Marketing | €5.000 | €10.000 | €15.000 |
+| Reizen partners | €3.000 | €5.000 | €8.000 |
+| Boekhouding lokaal MA | €6.000 | €7.200 | €9.000 |
+| Verzekeringen | €2.500 | €3.000 | €3.500 |
+| Bank fees | €1.000 | €2.000 | €3.500 |
+| Legal advice ongoing | €1.500 | €2.500 | €3.500 |
+| Annual audit | €0 | €0 | €3.000 |
+| Buffer | €1.500 | €2.500 | €4.000 |
+| Setup eenmalig (jaar 1) | €6.000 | €0 | €0 |
+| **Totale kosten** | **€105.000** | **€308.700** | **€565.500** |
+| **Winst MA BV** | **€175.000** | **€551.300** | **€1.114.500** |
 
 ### 7.3 Winst-verdeling: in de pot vs. naar aandeelhouders
 
@@ -224,12 +237,12 @@ Khalid's €500k investering staat hier los van — dat is paid-in kapitaal dat 
 
 | Jaar | Winst | Retentie (in pot) | Uitkering | Retentie % |
 |---|---|---|---|---|
-| Jaar 1 | €166.500 | €166.500 | €0 | 100% |
-| Jaar 2 | €508.500 | €508.500 | €0 | 100% |
-| Jaar 3 | €979.000 | €500.000 (floor) | €479.000 | 51% |
-| **3-jaar totaal** | **€1.654.000** | **€1.175.000** | **€479.000** | **71%** |
+| Jaar 1 | €175.000 | €175.000 | €0 | 100% |
+| Jaar 2 | €551.300 | €551.300 | €0 | 100% |
+| Jaar 3 | €1.114.500 | €500.000 (floor) | €614.500 | 45% |
+| **3-jaar totaal** | **€1.840.800** | **€1.226.300** | **€614.500** | **67%** |
 
-**Cash buffer in MA BV jaar 3:** €1.175k retained earnings + €500k Khalid paid-in kapitaal = **€1,68M cash buffer**. Dit is een buitengewoon sterke positie voor versnelde expansie, hires, of demonstreerbare duurzaamheid naar latere investeerders.
+**Cash buffer in MA BV jaar 3:** €1.226k retained earnings + €500k Khalid paid-in kapitaal = **€1,73M cash buffer**. Dit is een buitengewoon sterke positie voor versnelde expansie of demonstreerbare duurzaamheid naar latere investeerders.
 
 **Vereiste:** alle 3 partners moeten andere inkomstenbronnen hebben om persoonlijk te leven jaar 1-2. Said via Dasa/Dar BV, Sami via Inclufy BV NL, Khalid via zijn zorgbedrijf.
 
@@ -239,27 +252,27 @@ Khalid's €500k investering staat hier los van — dat is paid-in kapitaal dat 
 |---|---|---|---|
 | Jaar 1 | €0 | €0 | €0 |
 | Jaar 2 | €0 | €0 | €0 |
-| Jaar 3 | €191.600 | €191.600 | €95.800 |
-| **3-jaar cumulatief uitgekeerd** | **€191.600** | **€191.600** | **€95.800** |
+| Jaar 3 | €245.800 | €245.800 | €122.900 |
+| **3-jaar cumulatief uitgekeerd** | **€245.800** | **€245.800** | **€122.900** |
 
 ### 7.5 Cumulatief economische waarde per partner
 
 | Bron | Said (40%) | Sami (40%) | Khalid (20%) |
 |---|---|---|---|
-| Cash uitgekeerd 3 jaar | €191.600 | €191.600 | €95.800 |
-| Aandeel in retentie-pot (% × €1.175k) | €470.000 | €470.000 | €235.000 |
-| **Totaal economische waarde jaar 3** | **€661.600** | **€661.600** | **€330.800** |
-| Khalid's €500k paid-in kapitaal (in MA BV) | — | — | €500.000 *(geldt als zijn kapitaalinleg, blijft in BV)* |
+| Cash uitgekeerd 3 jaar | €245.800 | €245.800 | €122.900 |
+| Aandeel in retentie-pot (% × €1.226k) | €490.520 | €490.520 | €245.260 |
+| **Totaal economische waarde jaar 3** | **€736.320** | **€736.320** | **€368.160** |
+| Khalid's €500k paid-in kapitaal (in MA BV) | — | — | €500.000 *(blijft in BV als kapitaalinleg)* |
 
 ### 7.6 Khalid's totale return
 
 | Bron | Bedrag |
 |---|---|
-| 3-jaars uitkering | €95.800 |
-| Aandeel in retentie-pot jaar 3 | €235.000 |
-| Equity-waarde MA BV jaar 3 (20% × ~€6-8M waardering door sterke buffer) | €1.200.000 - €1.600.000 |
-| **Totaal jaar 3 cash + paper** | **€1.530.800 - €1.930.800** |
-| Op €500k inleg | **3,1x - 3,9x in 3 jaar** |
+| 3-jaars uitkering | €122.900 |
+| Aandeel in retentie-pot jaar 3 | €245.260 |
+| Equity-waarde MA BV jaar 3 (20% × ~€8-10M waardering door hogere marges) | €1.600.000 - €2.000.000 |
+| **Totaal jaar 3 cash + paper** | **€1.968.160 - €2.368.160** |
+| Op €500k inleg | **3,9x - 4,7x in 3 jaar** |
 
 ### 7.7 Exit-projectie (jaar 5)
 

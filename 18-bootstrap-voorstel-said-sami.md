@@ -181,7 +181,13 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 | Bennani channel (vanaf jaar 2) | 0 | 3 | 7 | 10 |
 | **Totaal nieuwe klanten** | **14** | **30** | **44** | **88** |
 
-### 7.3 Kostenstructuur per jaar
+### 7.3 Kostenstructuur per jaar (ultra-lean)
+
+**Lean assumpties:**
+- **Geen personeel** — Said en Sami doen alles zelf, geen werknemers, geen parttime hires
+- **Geen kantoor** — vanuit huis, klantbezoeken, café-meetings; co-working alleen pay-per-use indien nodig
+- **Geen aparte software** — gebruik Inclufy BV's CRM en tools (gedekt door inkoop-fee)
+- **Inclufy NL ondersteunt remote** — tier 2/3 support, implementation back-up via Inclufy BV (al gedekt in inkoop-percentage)
 
 #### Jaar 1
 
@@ -194,16 +200,17 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 | **Server-kosten doorbelasting** | **€10.000** | 4% |
 | **Accountant kickbacks** | **€12.000** | 4% |
 | **Partner kickback Bennani** | **€0** | 0% |
-| **Operationele kosten MA** | **€35.000** | 13% |
-| Boekhouding + admin | €8.000 | |
-| Kantoor + co-working | €6.000 | |
-| Legal + setup eenmalig | €5.000 | |
-| Tools (CRM, software) | €3.000 | |
-| Reizen + marketing | €10.000 | |
-| Verzekeringen | €3.000 | |
-| **Totale kosten** | **€113.500** | 41% |
-| **Winst MA BV** | **€166.500** | 59% |
-| **Per partner (50/50)** | **€83.250** | |
+| **Marketing (digital + content)** | **€5.000** | 2% |
+| **Reizen partners** | **€3.000** | 1% |
+| **Boekhouding lokaal MA** | **€6.000** | 2% |
+| **Verzekeringen** | **€2.500** | 1% |
+| **Bank fees + payment processing** | **€1.000** | 0,4% |
+| **Legal advice ongoing** | **€1.500** | 0,5% |
+| **Buffer / onverwacht** | **€1.500** | 0,5% |
+| **Setup eenmalig** (notaris + statuten + bank + transfer-pricing) | **€6.000** | 2% |
+| **Totale kosten** | **€105.000** | 38% |
+| **Winst MA BV** | **€175.000** | 62% |
+| **Per partner (50/50)** | **€87.500** | |
 
 #### Jaar 2
 
@@ -211,12 +218,18 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 |---|---|---|
 | **Inkoopkosten Inclufy BV** | **€176.500** | 21% |
 | **Server-kosten** | **€32.000** | 4% |
-| **Accountant kickbacks** | **€56.000** | 6% |
-| **Partner kickback Bennani** (3 deals × €20k × 20%) | **€12.000** | 1% |
-| **Operationele kosten MA** | **€75.000** | 9% |
-| **Totale kosten** | **€351.500** | 41% |
-| **Winst MA BV** | **€508.500** | 59% |
-| **Per partner (50/50)** | **€254.250** | |
+| **Accountant kickbacks** | **€56.000** | 7% |
+| **Partner kickback Bennani** | **€12.000** | 1% |
+| **Marketing** | **€10.000** | 1% |
+| **Reizen partners** | **€5.000** | 1% |
+| **Boekhouding lokaal MA** | **€7.200** | 1% |
+| **Verzekeringen** | **€3.000** | 0,3% |
+| **Bank fees** | **€2.000** | 0,2% |
+| **Legal advice ongoing** | **€2.500** | 0,3% |
+| **Buffer** | **€2.500** | 0,3% |
+| **Totale kosten** | **€308.700** | 36% |
+| **Winst MA BV** | **€551.300** | 64% |
+| **Per partner (50/50)** | **€275.650** | |
 
 #### Jaar 3
 
@@ -225,12 +238,20 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 | **Inkoopkosten Inclufy BV** | **€341.000** | 20% |
 | **Server-kosten** | **€63.000** | 4% |
 | **Accountant kickbacks** | **€84.000** | 5% |
-| **Partner kickback Bennani** (7 deals × €20k × 20%) | **€28.000** | 2% |
-| **Operationele kosten MA** | **€145.000** | 9% |
-| **Parttime support / customer success** | **€40.000** | 2% |
-| **Totale kosten** | **€701.000** | 42% |
-| **Winst MA BV** | **€979.000** | 58% |
-| **Per partner (50/50)** | **€489.500** | |
+| **Partner kickback Bennani** | **€28.000** | 2% |
+| **Marketing** | **€15.000** | 1% |
+| **Reizen partners** | **€8.000** | 0,5% |
+| **Boekhouding lokaal MA** | **€9.000** | 0,5% |
+| **Verzekeringen** | **€3.500** | 0,2% |
+| **Bank fees** | **€3.500** | 0,2% |
+| **Legal advice ongoing** | **€3.500** | 0,2% |
+| **Annual audit** | **€3.000** | 0,2% |
+| **Buffer** | **€4.000** | 0,2% |
+| **Totale kosten** | **€565.500** | 34% |
+| **Winst MA BV** | **€1.114.500** | 66% |
+| **Per partner (50/50)** | **€557.250** | |
+
+**Partner-bandbreedte-risico:** bij 76 klanten (jaar 3) is "geen personeel" aan de bovengrens van wat 2 part-time founders kunnen dragen. Customer success en implementation worden grotendeels via Inclufy BV NL geleverd (in inkoop-fee), en complexe consultancy wordt eventueel op project-basis uitbesteed.
 
 ### 7.4 Winst-verdeling: in de pot vs. naar aandeelhouders
 
@@ -240,10 +261,10 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 
 | Jaar | Winst | Retentie (blijft in pot) | Uitkering (naar aandeelhouders) | Retentie % |
 |---|---|---|---|---|
-| Jaar 1 | €166.500 | €166.500 | €0 | 100% |
-| Jaar 2 | €508.500 | €508.500 | €0 | 100% |
-| Jaar 3 | €979.000 | €500.000 (floor) | €479.000 | 51% |
-| **3-jaar totaal** | **€1.654.000** | **€1.175.000** | **€479.000** | **71%** |
+| Jaar 1 | €175.000 | €175.000 | €0 | 100% |
+| Jaar 2 | €551.300 | €551.300 | €0 | 100% |
+| Jaar 3 | €1.114.500 | €500.000 (floor) | €614.500 | 45% |
+| **3-jaar totaal** | **€1.840.800** | **€1.226.300** | **€614.500** | **67%** |
 
 **Waarom deze conservatieve aanpak:**
 - Sterke buffer-opbouw voor onzekerheid jaar 1-2 (lage cashflow-volatiliteit gewenst)
@@ -260,20 +281,20 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 |---|---|---|
 | Jaar 1 | €0 | €0 |
 | Jaar 2 | €0 | €0 |
-| Jaar 3 | €239.500 | €239.500 |
-| **3-jaar cumulatief uitgekeerd** | **€239.500** | **€239.500** |
+| Jaar 3 | €307.250 | €307.250 |
+| **3-jaar cumulatief uitgekeerd** | **€307.250** | **€307.250** |
 
 ### 7.6 Cumulatief economische waarde per partner
 
 | Bron | Said | Sami |
 |---|---|---|
-| Cash uitgekeerd 3 jaar | €239.500 | €239.500 |
-| Aandeel in retentie-pot (50% × €1.175k) | €587.500 | €587.500 |
-| **Totaal economische waarde jaar 3** | **€827.000** | **€827.000** |
+| Cash uitgekeerd 3 jaar | €307.250 | €307.250 |
+| Aandeel in retentie-pot (50% × €1.226k) | €613.150 | €613.150 |
+| **Totaal economische waarde jaar 3** | **€920.400** | **€920.400** |
 
-*Daarbovenop: paper-waarde van MA BV-aandelen bij eventuele exit (50% × ~€6-8M waardering jaar 3 met sterke retentie = €3-4M per partner). Equity-waarde realiseert pas bij verkoop.*
+*Daarbovenop: paper-waarde van MA BV-aandelen bij eventuele exit (50% × ~€8-10M waardering jaar 3 met sterke retentie en hogere marges = €4-5M per partner). Equity-waarde realiseert pas bij verkoop.*
 
-**Cash buffer in MA BV jaar 3:** €1.175k. Substantieel — voldoende om Casablanca-uitbreiding te financieren, customer success-team op te bouwen, of als bewijs van duurzaamheid voor latere investeerder.
+**Cash buffer in MA BV jaar 3:** €1.226k. Substantieel — voldoende voor eventuele expansie, opzetten van een dedicated team in jaar 4, of als bewijs van duurzaamheid voor latere investeerder.
 
 ### 7.7 Inclufy BV royalty-inkomen
 

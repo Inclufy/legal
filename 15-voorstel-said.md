@@ -2,7 +2,7 @@
 
 **Status:** Werkdocument voor persoonlijk gesprek. Geen finale tekst, geen contract.
 **Voor:** Said (Dasa/Dar BV)
-**Van:** Hicham, namens Inclufy BV
+**Van:** Sami, namens Inclufy BV
 **Datum:** mei 2026
 
 ---
@@ -350,4 +350,4 @@ En als je het uiteindelijk niet ziet zitten, ook dat is een geldig antwoord. Onz
 
 Praten?
 
-— Hicham
+— Sami

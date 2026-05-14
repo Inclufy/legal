@@ -2,7 +2,7 @@
 
 **Status:** Werkdocument voor persoonlijk gesprek. Geen finale tekst, geen contract.
 **Voor:** Khalid
-**Van:** Hicham, namens Inclufy BV
+**Van:** Sami, namens Inclufy BV
 **Datum:** mei 2026
 
 ---
@@ -280,4 +280,4 @@ Lees rustig. Stel vragen. Kom met tegenvoorstellen waar nodig. Ik wil dat je ins
 
 Praten?
 
-— Hicham
+— Sami

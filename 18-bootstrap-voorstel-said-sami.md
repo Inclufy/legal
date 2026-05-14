@@ -234,43 +234,46 @@ Inclufy BV bezit 100% IP, brand, software. MA BV is licensee voor MENA-regio.
 
 ### 7.4 Winst-verdeling: in de pot vs. naar aandeelhouders
 
-Niet alle winst wordt direct uitgekeerd. Een deel blijft in de MA BV voor werkkapitaal-buffer, marketing en groei-investeringen.
-
-**Voorgestelde uitkeringspolicy:**
+**Conservatieve uitkeringspolicy:**
+- **Jaar 1-2: 100% retentie** — geen uitkeringen, alle winst blijft in MA BV
+- **Vanaf jaar 3: winst boven €500k drempel** komt voor uitkering in aanmerking (board-besluit)
 
 | Jaar | Winst | Retentie (blijft in pot) | Uitkering (naar aandeelhouders) | Retentie % |
 |---|---|---|---|---|
-| Jaar 1 | €166.500 | €50.000 | €116.500 | 30% |
-| Jaar 2 | €508.500 | €120.000 | €388.500 | 24% |
-| Jaar 3 | €979.000 | €185.000 | €794.000 | 19% |
-| **3-jaar totaal** | **€1.654.000** | **€355.000** | **€1.299.000** | **21%** |
+| Jaar 1 | €166.500 | €166.500 | €0 | 100% |
+| Jaar 2 | €508.500 | €508.500 | €0 | 100% |
+| Jaar 3 | €979.000 | €500.000 (floor) | €479.000 | 51% |
+| **3-jaar totaal** | **€1.654.000** | **€1.175.000** | **€479.000** | **71%** |
 
-**Waarom retentie nodig:**
-- Werkkapitaal-buffer (60-90 dagen operationele kosten)
-- Marketing-investeringen schaalbaar maken
-- Bennani onboarding-kosten jaar 2
-- Casablanca-uitbreiding accountants jaar 2-3
-- Parttime customer success hire jaar 3
-- Onverwachte uitgaven / vertraagde klant-betalingen
+**Waarom deze conservatieve aanpak:**
+- Sterke buffer-opbouw voor onzekerheid jaar 1-2 (lage cashflow-volatiliteit gewenst)
+- Maximale herinvesterings-capaciteit voor groei-mijlpalen
+- €500k floor garandeert dat MA BV altijd minimum 1 jaar operationele kosten in kas heeft
+- Discipline-signaal voor eventuele toekomstige investeerder (jaar 3-4)
+- Partners committen lange-termijn waarde-opbouw boven korte-termijn cashflow
+
+**Vereiste**: beide partners moeten andere inkomstenbronnen hebben om persoonlijk te leven jaar 1-2. Said via Dasa/Dar BV, Sami via Inclufy BV NL.
 
 ### 7.5 Uitkering per partner (50/50)
 
 | Jaar | Said uitkering | Sami uitkering |
 |---|---|---|
-| Jaar 1 | €58.250 | €58.250 |
-| Jaar 2 | €194.250 | €194.250 |
-| Jaar 3 | €397.000 | €397.000 |
-| **3-jaar cumulatief uitgekeerd** | **€649.500** | **€649.500** |
+| Jaar 1 | €0 | €0 |
+| Jaar 2 | €0 | €0 |
+| Jaar 3 | €239.500 | €239.500 |
+| **3-jaar cumulatief uitgekeerd** | **€239.500** | **€239.500** |
 
 ### 7.6 Cumulatief economische waarde per partner
 
 | Bron | Said | Sami |
 |---|---|---|
-| Cash uitgekeerd 3 jaar | €649.500 | €649.500 |
-| Aandeel in retentie-pot (50% × €355k) | €177.500 | €177.500 |
+| Cash uitgekeerd 3 jaar | €239.500 | €239.500 |
+| Aandeel in retentie-pot (50% × €1.175k) | €587.500 | €587.500 |
 | **Totaal economische waarde jaar 3** | **€827.000** | **€827.000** |
 
-*Daarbovenop: paper-waarde van MA BV-aandelen bij eventuele exit (50% × ~€5M waardering jaar 3 = €2,5M per partner). Equity-waarde realiseert pas bij verkoop.*
+*Daarbovenop: paper-waarde van MA BV-aandelen bij eventuele exit (50% × ~€6-8M waardering jaar 3 met sterke retentie = €3-4M per partner). Equity-waarde realiseert pas bij verkoop.*
+
+**Cash buffer in MA BV jaar 3:** €1.175k. Substantieel — voldoende om Casablanca-uitbreiding te financieren, customer success-team op te bouwen, of als bewijs van duurzaamheid voor latere investeerder.
 
 ### 7.7 Inclufy BV royalty-inkomen
 

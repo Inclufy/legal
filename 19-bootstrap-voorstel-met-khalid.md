@@ -216,46 +216,50 @@ Te bepalen na scope-gesprek.
 
 ### 7.3 Winst-verdeling: in de pot vs. naar aandeelhouders
 
-Niet alle winst wordt direct uitgekeerd. Een deel blijft in MA BV voor werkkapitaal en groei-investeringen. Khalid's investering (€500k tranched) staat hier los van — dat is paid-in kapitaal, niet retained earnings.
+**Conservatieve uitkeringspolicy:**
+- **Jaar 1-2: 100% retentie** — geen uitkeringen
+- **Vanaf jaar 3: winst boven €500k drempel** komt voor uitkering in aanmerking (board-besluit)
 
-**Voorgestelde uitkeringspolicy:**
+Khalid's €500k investering staat hier los van — dat is paid-in kapitaal dat permanent in MA BV blijft als werkkapitaal, niet retained earnings.
 
-| Jaar | Winst | Retentie (blijft in pot) | Uitkering (naar aandeelhouders) | Retentie % |
+| Jaar | Winst | Retentie (in pot) | Uitkering | Retentie % |
 |---|---|---|---|---|
-| Jaar 1 | €166.500 | €50.000 | €116.500 | 30% |
-| Jaar 2 | €508.500 | €120.000 | €388.500 | 24% |
-| Jaar 3 | €979.000 | €185.000 | €794.000 | 19% |
-| **3-jaar totaal** | **€1.654.000** | **€355.000** | **€1.299.000** | **21%** |
+| Jaar 1 | €166.500 | €166.500 | €0 | 100% |
+| Jaar 2 | €508.500 | €508.500 | €0 | 100% |
+| Jaar 3 | €979.000 | €500.000 (floor) | €479.000 | 51% |
+| **3-jaar totaal** | **€1.654.000** | **€1.175.000** | **€479.000** | **71%** |
 
-**Cash buffer in MA BV jaar 3:** €355k retained earnings + €500k Khalid paid-in kapitaal = **€855k cash buffer**. Dit dekt expansie, hires, marketing en eventuele tegenvallers significant ruimer dan in model zonder Khalid.
+**Cash buffer in MA BV jaar 3:** €1.175k retained earnings + €500k Khalid paid-in kapitaal = **€1,68M cash buffer**. Dit is een buitengewoon sterke positie voor versnelde expansie, hires, of demonstreerbare duurzaamheid naar latere investeerders.
+
+**Vereiste:** alle 3 partners moeten andere inkomstenbronnen hebben om persoonlijk te leven jaar 1-2. Said via Dasa/Dar BV, Sami via Inclufy BV NL, Khalid via zijn zorgbedrijf.
 
 ### 7.4 Uitkering per partner (40/40/20)
 
 | Jaar | Said uitkering (40%) | Sami uitkering (40%) | Khalid uitkering (20%) |
 |---|---|---|---|
-| Jaar 1 | €46.600 | €46.600 | €23.300 |
-| Jaar 2 | €155.400 | €155.400 | €77.700 |
-| Jaar 3 | €317.600 | €317.600 | €158.800 |
-| **3-jaar cumulatief uitgekeerd** | **€519.600** | **€519.600** | **€259.800** |
+| Jaar 1 | €0 | €0 | €0 |
+| Jaar 2 | €0 | €0 | €0 |
+| Jaar 3 | €191.600 | €191.600 | €95.800 |
+| **3-jaar cumulatief uitgekeerd** | **€191.600** | **€191.600** | **€95.800** |
 
 ### 7.5 Cumulatief economische waarde per partner
 
 | Bron | Said (40%) | Sami (40%) | Khalid (20%) |
 |---|---|---|---|
-| Cash uitgekeerd 3 jaar | €519.600 | €519.600 | €259.800 |
-| Aandeel in retentie-pot (% × €355k) | €142.000 | €142.000 | €71.000 |
+| Cash uitgekeerd 3 jaar | €191.600 | €191.600 | €95.800 |
+| Aandeel in retentie-pot (% × €1.175k) | €470.000 | €470.000 | €235.000 |
 | **Totaal economische waarde jaar 3** | **€661.600** | **€661.600** | **€330.800** |
-| Khalid's €500k paid-in kapitaal (binnen MA BV, bij exit terug) | — | — | €500.000 |
+| Khalid's €500k paid-in kapitaal (in MA BV) | — | — | €500.000 *(geldt als zijn kapitaalinleg, blijft in BV)* |
 
 ### 7.6 Khalid's totale return
 
 | Bron | Bedrag |
 |---|---|
-| 3-jaars uitkering | €259.800 |
-| Aandeel in retentie-pot jaar 3 | €71.000 |
-| Equity-waarde MA BV jaar 3 (20% × ~€5M waardering) | €1.000.000 |
-| **Totaal jaar 3 cash + paper** | **€1.330.800** |
-| Op €500k inleg | **2,66x in 3 jaar** |
+| 3-jaars uitkering | €95.800 |
+| Aandeel in retentie-pot jaar 3 | €235.000 |
+| Equity-waarde MA BV jaar 3 (20% × ~€6-8M waardering door sterke buffer) | €1.200.000 - €1.600.000 |
+| **Totaal jaar 3 cash + paper** | **€1.530.800 - €1.930.800** |
+| Op €500k inleg | **3,1x - 3,9x in 3 jaar** |
 
 ### 7.7 Exit-projectie (jaar 5)
 

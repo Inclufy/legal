@@ -16,7 +16,7 @@ Daarover gaan we graag 45 minuten in gesprek met MKB-ondernemers, projectmanager
 
 Bij Inclufy toetsen we dit najaar, in samenwerking met de provincie Flevoland, of het Nederlandse MKB klaar is voor AI die écht werk uit handen neemt in projectmanagement en marketing: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen. Dat doen we met ons eigen onderzoeksteam en samen met House of Digital en ROC van Amsterdam | Flevoland.
 
-Werk je in de bouw, installatie of energie, of zit je in Flevoland of de Metropoolregio Amsterdam? Dan horen we extra graag van je. Interesse? Stuur ons een bericht.
+Meedoen kan met elk MKB-bedrijf, van IT en zakelijke dienstverlening tot logistiek en industrie. Werk je in de bouw, installatie of energie, of zit je in Flevoland of de Metropoolregio Amsterdam? Dan horen we extra graag van je. Interesse? Stuur ons een bericht.
 
 *Mede mogelijk gemaakt door de provincie Flevoland.*
 

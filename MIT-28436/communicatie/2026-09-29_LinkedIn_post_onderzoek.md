@@ -8,19 +8,15 @@
 
 ---
 
-## Definitieve posttekst
+## Definitieve begeleidende tekst (bij de visual)
 
-**Onderzoek naar AI in het MKB: wat zou jij een AI-agent zelfstandig laten doen in je bedrijf, en wat juist nooit?**
+Kan het MKB al écht werk uit handen geven aan AI? Bij Inclufy toetsen we dat dit najaar, in samenwerking met de provincie Flevoland: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen, in projectmanagement en marketing. We doen dit met ons eigen onderzoeksteam en samen met House of Digital en ROC van Amsterdam | Flevoland.
 
-Daarover gaan we graag 45 minuten in gesprek met MKB-ondernemers, projectmanagers en marketeers. Geen verkooppraatje, wel een goed gesprek, online of op locatie. Als dank ontvang je in december als eerste onze whitepaper **"Juridische kaders voor agentic AI in het MKB"**: wat mag er, wat moet er, en wat heb je nodig om AI verantwoord zelfstandig te laten werken.
-
-Bij Inclufy toetsen we dit najaar, in samenwerking met de provincie Flevoland, of het Nederlandse MKB klaar is voor AI die écht werk uit handen neemt in projectmanagement en marketing: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen. Dat doen we met ons eigen onderzoeksteam en samen met House of Digital en ROC van Amsterdam | Flevoland.
-
-Meedoen kan met elk MKB-bedrijf, van IT en zakelijke dienstverlening tot logistiek en industrie. Werk je in de bouw, installatie of energie, of zit je in Flevoland of de Metropoolregio Amsterdam? Dan horen we extra graag van je. Interesse? Stuur ons een bericht.
-
-*Mede mogelijk gemaakt door de provincie Flevoland.*
+Meedoen kan met elk MKB-bedrijf, van IT en zakelijke dienstverlening tot logistiek en industrie; bouw, installatie en energie zijn extra welkom. Stuur ons een bericht en we plannen een gesprek.
 
 #AgenticAI #MKB #Flevoland #MRA #Onderzoek
+
+*Opzet: tekst en visual vullen elkaar aan zonder dubbeling. De visual draagt de vraag, de voorwaarden (45 minuten, online/op locatie, regio), de whitepaper, de call-to-action en de provincievermelding "Mede mogelijk gemaakt door de provincie Flevoland"; de tekst draagt het waarom, de scope en de brede MKB-uitnodiging.*
 
 ---
 

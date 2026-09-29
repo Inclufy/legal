@@ -14,7 +14,7 @@
 
 In samenwerking met de provincie Flevoland doet Inclufy dit najaar onderzoek naar agentic AI voor het MKB: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen, in projectmanagement en marketing. De uitkomsten bundelen we in een whitepaper die voor iedereen vrij toegankelijk wordt.
 
-De praktijkkennis van MKB-ondernemers is de kern van dit onderzoek: zonder jullie ervaring geen bruikbare antwoorden. Wil je met jouw organisatie onderdeel zijn van dit onderzoek? Neem dan deel aan een interview. Meedoen kan met elk MKB-bedrijf, van IT en zakelijke dienstverlening tot logistiek en industrie; bouw, installatie en energie zijn extra welkom. Stuur ons een bericht en we plannen een gesprek.
+Maar zonder het MKB zelf geen antwoorden. Jij weet waar in jouw bedrijf de uren weglekken, welke klussen je morgen zou uitbesteden en wat je een AI juist nooit alleen zou laten doen. Precies die praktijkkennis zoeken we. Doe mee met een interview en praat ons bij over jouw dagelijkse praktijk. Elk MKB-bedrijf is welkom, van IT en zakelijke dienstverlening tot logistiek en industrie. Werk je in de bouw, installatie of energie? Dan schuiven we extra graag bij jou aan. Eén berichtje is genoeg, wij plannen het gesprek rond jouw agenda.
 
 #AgenticAI #MKB #Flevoland #MRA #Onderzoek
 

@@ -10,7 +10,7 @@
 
 ## Definitieve begeleidende tekst (bij de visual)
 
-Kan het MKB al écht werk uit handen geven aan AI? Bij Inclufy toetsen we dat dit najaar, in samenwerking met de provincie Flevoland: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen, in projectmanagement en marketing. We doen dit met ons eigen onderzoeksteam en samen met House of Digital en ROC van Amsterdam | Flevoland.
+Kan het MKB al écht werk uit handen geven aan AI? Bij Inclufy toetsen we dat dit najaar, in samenwerking met de provincie Flevoland: van behoefte en betalingsbereidheid tot juridische kaders, technische haalbaarheid en internationale kansen, in projectmanagement en marketing. We doen dit met ons eigen onderzoeksteam.
 
 Meedoen kan met elk MKB-bedrijf, van IT en zakelijke dienstverlening tot logistiek en industrie; bouw, installatie en energie zijn extra welkom. Stuur ons een bericht en we plannen een gesprek.
 

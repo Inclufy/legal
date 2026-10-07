@@ -1,0 +1,13 @@
+bedrijf_id,sector,omvang,mnd_omzet_basis,seizoen_amp,projectmatig,betaaltermijn_dagen,late_betaling_kans,vaste_lasten_pm,personeel_pm
+B01,bouw,klein,30000,0.34,0.16,60,0.15,16586,8401
+B02,installatie,micro,9000,0.28,0.22,14,0.14,4579,3145
+B03,energie,micro,9000,0.16,0.11,14,0.23,3580,2618
+B04,it_diensten,middel,90000,0.31,0.62,14,0.26,39301,39679
+B05,zakelijke_diensten,middel,90000,0.1,0.19,14,0.1,32801,19087
+B06,logistiek,klein,30000,0.1,0.26,30,0.42,12895,10536
+B07,industrie,middel,90000,0.33,0.46,30,0.37,50669,29593
+B08,food,micro,9000,0.06,0.5,45,0.31,3654,2938
+B09,bouw,micro,9000,0.33,0.24,45,0.2,4031,2922
+B10,installatie,klein,30000,0.09,0.61,14,0.29,13765,7279
+B11,energie,klein,30000,0.28,0.2,60,0.16,16900,6995
+B12,it_diensten,micro,9000,0.12,0.29,14,0.25,3750,2348

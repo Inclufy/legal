@@ -1,0 +1,16 @@
+bedrijf_id,sector,omvang,mkt_budget_pm
+M01,bouw,klein,2200
+M02,it_diensten,micro,600
+M03,industrie,middel,7500
+M04,installatie,middel,7500
+M05,zakelijke_diensten,middel,7500
+M06,food,micro,600
+M07,energie,middel,7500
+M08,logistiek,klein,2200
+M09,bouw,klein,2200
+M10,it_diensten,klein,2200
+M11,industrie,klein,2200
+M12,installatie,middel,7500
+M13,zakelijke_diensten,middel,7500
+M14,food,middel,7500
+M15,energie,middel,7500

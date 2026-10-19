@@ -1,226 +1,254 @@
 # Concept-whitepaper: Juridische kaders voor agentic AI in het MKB
 
-**CONCEPT, automatisch gegenereerd op 19-10-2026 uit 5 enquête-inzendingen** (inclufy.com/ai-onderzoek). Dit concept is de kwantitatieve basis; de blokken [AANVULLEN UIT INTERVIEWS] worden gevuld uit de 15 tot 21 bedrijfsinterviews (Interviewvragenlijst v2) volgens het Analysekader. Automatisch gegenereerde conclusies en aanbevelingen zijn voorstellen en worden door de hoofdonderzoeker gevalideerd vóór enige publicatie.
+**CONCEPT, automatisch gegenereerd op 19-10-2026** uit 5 enquête-inzendingen (inclufy.com/ai-onderzoek) en 1 gecodeerde bedrijfsinterviews (Interviewvragenlijst v2, ingevoerd via interview_invoer_template.json). Beide bronnen zijn gecodeerd op dezelfde uitkomstenset (Analysekader) en worden in de tabellen naast elkaar en opgeteld getoond. Automatisch gegenereerde conclusies en aanbevelingen zijn voorstellen; de blokken [DUIDING DOOR ANALIST] vullen Amin (vraag 1 t/m 4), Ayah (5 t/m 8) en Reda (9 t/m 12) met context, voorbeelden en citaten uit hun interviews. De hoofdonderzoeker valideert het geheel vóór enige publicatie.
 
 Onderzoeksproject "Haalbaarheid AI PM+Marketing", MIT Haalbaarheid, provincie Flevoland, zaaknummer 28436. Mede mogelijk gemaakt door een subsidie van de provincie Flevoland.
 
 ## 1. Inleiding en methode
 
-Dit concept bundelt 5 enquête-inzendingen. De enquête (tien vragen, versie 2 van 19 oktober 2026) en de interviews (twaalf hoofdvragen, versie 2) zijn op hetzelfde analysekader gebouwd: elke uitkomstcategorie wordt door beide instrumenten gevoed, zodat resultaten optelbaar en vergelijkbaar zijn.
+Deelnemers: 6 totaal (5 enquête, 1 interviews). Interviews van 15 tot 21 bedrijven gepland; de enquête loopt door tot het einde van de veldwerkperiode, waarna dit concept opnieuw wordt gegenereerd.
 
 **Spreiding naar sector**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Bouw / installatie | 1 | 20% |
-| IT / software | 1 | 20% |
-| Retail / groothandel | 1 | 20% |
-| Zakelijke dienstverlening | 1 | 20% |
-| Industrie / productie | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Bouw / installatie | 1 | 0 | 1 | 17% |
+| IT / software | 1 | 0 | 1 | 17% |
+| Retail / groothandel | 1 | 0 | 1 | 17% |
+| Zakelijke dienstverlening | 1 | 0 | 1 | 17% |
+| Industrie / productie | 1 | 0 | 1 | 17% |
+| Logistiek / transport | 0 | 1 | 1 | 17% |
 
-*(beantwoord door 5 van 5)*
+*(beantwoord door 6 van 6)*
 
 **Spreiding naar bedrijfsomvang**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| 10–49 | 2 | 40% |
-| 2–9 | 1 | 20% |
-| 50–249 | 1 | 20% |
-| 1 (zzp) | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| 10–49 | 2 | 0 | 2 | 33% |
+| 50–249 | 1 | 1 | 2 | 33% |
+| 2–9 | 1 | 0 | 1 | 17% |
+| 1 (zzp) | 1 | 0 | 1 | 17% |
 
-*(beantwoord door 5 van 5)*
+*(beantwoord door 6 van 6)*
 
 **Spreiding naar regio**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Flevoland | 3 | 60% |
-| Metropoolregio Amsterdam | 1 | 20% |
-| Elders in Nederland | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Flevoland | 3 | 1 | 4 | 67% |
+| Metropoolregio Amsterdam | 1 | 0 | 1 | 17% |
+| Elders in Nederland | 1 | 0 | 1 | 17% |
 
-*(beantwoord door 5 van 5)*
+*(beantwoord door 6 van 6)*
 
-> **[AANVULLEN UIT INTERVIEWS: bedrijfsprofielen]** Vul de spreidingstabellen aan met de interviewbedrijven en benoem de gezamenlijke dekking.
+Methodenotities interviews: voorbeeldkaart gebruikt bij 1 van de 1; blokken met vinkje "onvoldoende zicht": Marketing (1x).
 
 ## 2. Resultaten
 
 ### 2.1 Huidig AI-gebruik
 
-**Werkt het bedrijf al met AI-tools? (enquêtevraag 1)**
+**Werkt het bedrijf al met AI-tools?**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Ja, dagelijks | 1 | 20% |
-| Ja, af en toe | 2 | 40% |
-| Nee, maar wel interesse | 1 | 20% |
-| Nee, geen plannen | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Ja, dagelijks | 1 | 0 | 1 | 17% |
+| Ja, af en toe | 2 | 1 | 3 | 50% |
+| Nee, maar wel interesse | 1 | 0 | 1 | 17% |
+| Nee, geen plannen | 1 | 0 | 1 | 17% |
 
-*(beantwoord door 5 van 5)*
+*(beantwoord door 6 van 6)*
 
 Toelichtingen (gebruik of reden om niet te gebruiken):
 
-- "Offertes schrijven met ChatGPT" *(Bouw / installatie, 10–49)*
-- "Geen tijd gehad om het uit te zoeken" *(Retail / groothandel, 50–249)*
+- "Offertes schrijven met ChatGPT" *(Bouw / installatie, 10–49, enquête)*
+- "Geen tijd gehad om het uit te zoeken" *(Retail / groothandel, 50–249, enquête)*
+- "Ritplanning deels met AI-tool, verder handmatig" *(Logistiek / transport, 50–249, interview I-01)*
 
-> **[AANVULLEN UIT INTERVIEWS: interviewvraag 1 en 5]** Huidige werkwijze en AI-gebruik uit de interviews (H-notities), gescheiden van verwachtingen (V).
+> **[DUIDING DOOR ANALIST: Amin en Ayah]** Context bij het huidige gebruik uit interviewvraag 1 en 5; huidige praktijk (H) scheiden van verwachting (V).
 
 ### 2.2 Taken: wat mag een AI-agent wel en niet
 
-**Taken die men een AI-agent zelfstandig zou laten uitvoeren (enquêtevraag 2)**
+**Taken die men een AI-agent zelfstandig zou laten uitvoeren**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Projectplanning bijhouden en bijsturen | 2 | 40% |
-| Geen enkele taak volledig zelfstandig | 2 | 40% |
-| Offertes of rapportages opstellen | 1 | 20% |
-| Marketingcontent maken en plaatsen | 1 | 20% |
-| Campagnes starten en bijsturen | 1 | 20% |
-| Klantvragen beantwoorden | 1 | 20% |
-| Cashflow en budgetten vooruit rekenen | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Projectplanning bijhouden en bijsturen | 2 | 1 | 3 | 50% |
+| Geen enkele taak volledig zelfstandig | 2 | 0 | 2 | 33% |
+| Cashflow en budgetten vooruit rekenen | 1 | 1 | 2 | 33% |
+| Offertes of rapportages opstellen | 1 | 0 | 1 | 17% |
+| Marketingcontent maken en plaatsen | 1 | 0 | 1 | 17% |
+| Campagnes starten en bijsturen | 1 | 0 | 1 | 17% |
+| Klantvragen beantwoorden | 1 | 0 | 1 | 17% |
 
-*(meerdere antwoorden mogelijk; aandelen op basis van alle 5 inzendingen)*
+*(meerdere antwoorden mogelijk; aandelen op basis van alle 6 deelnemers)*
 
-Wat men een AI-agent nooit zelfstandig zou laten doen (enquêtevraag 3):
+Wat men een AI-agent nooit zelfstandig zou laten doen:
 
-- "Prijsafspraken met klanten" *(Bouw / installatie, 10–49)*
-- "Alles, eerst zien dat het veilig is" *(Retail / groothandel, 50–249)*
-- "Beslissingen over personeel" *(Industrie / productie, 10–49)*
+- "Prijsafspraken met klanten" *(Bouw / installatie, 10–49, enquête)*
+- "Alles, eerst zien dat het veilig is" *(Retail / groothandel, 50–249, enquête)*
+- "Beslissingen over personeel" *(Industrie / productie, 10–49, enquête)*
+- "Contractbeslissingen met vervoerders" *(Logistiek / transport, 50–249, interview I-01)*
 
-> **[AANVULLEN UIT INTERVIEWS: interviewvraag 2, 6 en 9]** Taken wel/niet per domein (projectmanagement, marketing, overige processen), met concrete voorbeelden.
+> **[DUIDING DOOR ANALIST: Amin, Ayah en Reda]** Concrete voorbeelden per domein uit interviewvraag 2, 6 en 9; benoem patronen die de tellingen verklaren.
 
 ### 2.3 Menselijke controle en waarborgen
 
-**Gewenste mate van menselijke controle (enquêtevraag 4)**
+**Gewenste mate van menselijke controle**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Alles vooraf goedkeuren | 2 | 40% |
-| Alleen belangrijke beslissingen vooraf | 2 | 40% |
-| Achteraf controleren is genoeg | 1 | 20% |
-| Volledig zelfstandig is prima | 0 | 0% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Alles vooraf goedkeuren | 2 | 0 | 2 | 33% |
+| Alleen belangrijke beslissingen vooraf | 2 | 1 | 3 | 50% |
+| Achteraf controleren is genoeg | 1 | 0 | 1 | 17% |
+| Volledig zelfstandig is prima | 0 | 0 | 0 | 0% |
 
-*(beantwoord door 5 van 5)*
+*(beantwoord door 6 van 6)*
 
-**Minimaal gewenste waarborgen (enquêtevraag 6)**
+**Minimaal gewenste waarborgen**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Belangrijke acties eerst ter goedkeuring aan een mens | 4 | 80% |
-| Altijd direct kunnen stoppen of terugdraaien | 3 | 60% |
-| Logboek van alle handelingen | 2 | 40% |
-| Uitleg waarom de agent iets doet | 2 | 40% |
-| Onafhankelijke toetsing of certificering | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Belangrijke acties eerst ter goedkeuring aan een mens | 4 | 1 | 5 | 83% |
+| Altijd direct kunnen stoppen of terugdraaien | 3 | 1 | 4 | 67% |
+| Logboek van alle handelingen | 2 | 1 | 3 | 50% |
+| Uitleg waarom de agent iets doet | 2 | 0 | 2 | 33% |
+| Onafhankelijke toetsing of certificering | 1 | 0 | 1 | 17% |
 
-*(meerdere antwoorden mogelijk; aandelen op basis van alle 5 inzendingen)*
+*(meerdere antwoorden mogelijk; aandelen op basis van alle 6 deelnemers)*
 
-> **[AANVULLEN UIT INTERVIEWS: interviewvraag 3, 4 en 7]** Beslisgrenzen, controle en herstel van fouten; opvattingen over verantwoordelijkheid (O-notities) apart houden.
+> **[DUIDING DOOR ANALIST: Amin]** Beslisgrenzen en foutherstel uit interviewvraag 3 en 4; welke beslissingen men expliciet zelf wil blijven nemen.
 
 ### 2.4 Drempels, regelkennis en betalingsbereidheid
 
-**Grootste drempel (enquêtevraag 5)**
+**Grootste drempel**
 
-| Antwoord | Aantal | Aandeel |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Vertrouwen (zicht en correctie) | 1 | 0 | 1 | 17% |
+| Privacy en bedrijfsdata (AVG) | 1 | 0 | 1 | 17% |
+| Aansprakelijkheid | 1 | 1 | 2 | 33% |
+| Kosten en onduidelijke opbrengst | 1 | 0 | 1 | 17% |
+| Kennis (waar te beginnen) | 1 | 0 | 1 | 17% |
+| Anders | 0 | 0 | 0 | 0% |
+
+*(beantwoord door 6 van 6)*
+
+**Bekendheid met AVG en AI-verordening**
+
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Niet bekend | 2 | 0 | 2 | 33% |
+| Van gehoord, betekenis onduidelijk | 2 | 1 | 3 | 50% |
+| Globaal bekend | 1 | 0 | 1 | 17% |
+| Goed bekend | 0 | 0 | 0 | 0% |
+
+*(beantwoord door 6 van 6)*
+
+Regelkennis in de interviews, spontaan genoemd tegenover pas na aanreiken herkend:
+
+| Regel | Spontaan genoemd | Na aanreiken |
 |---|---|---|
-| Vertrouwen (zicht en correctie) | 1 | 20% |
-| Privacy en bedrijfsdata (AVG) | 1 | 20% |
-| Aansprakelijkheid | 1 | 20% |
-| Kosten en onduidelijke opbrengst | 1 | 20% |
-| Kennis (waar te beginnen) | 1 | 20% |
-| Anders | 0 | 0% |
+| AI-verordening | 0 | 1 |
+| AVG | 1 | 0 |
 
-*(beantwoord door 5 van 5)*
+**Betalingsbereidheid per maand**
 
-**Bekendheid met AVG en AI-verordening (enquêtevraag 7)**
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| €500 – €1.500 | 1 | 1 | 2 | 33% |
+| €150 – €500 | 1 | 0 | 1 | 17% |
+| Niets | 1 | 0 | 1 | 17% |
+| Tot €50 | 1 | 0 | 1 | 17% |
+| Dat hangt ervan af (licht toe bij vraag 10) | 1 | 0 | 1 | 17% |
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Niet bekend | 2 | 40% |
-| Van gehoord, betekenis onduidelijk | 2 | 40% |
-| Globaal bekend | 1 | 20% |
-| Goed bekend | 0 | 0% |
+*(beantwoord door 6 van 6)*
 
-*(beantwoord door 5 van 5)*
+Genoemde prijsvorm in de interviews: per maand (1x).
 
-**Betalingsbereidheid per maand (enquêtevraag 8)**
+**Gewenste externe ondersteuning**
 
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| €150 – €500 | 1 | 20% |
-| €500 – €1.500 | 1 | 20% |
-| Niets | 1 | 20% |
-| Tot €50 | 1 | 20% |
-| Dat hangt ervan af (licht toe bij vraag 10) | 1 | 20% |
+| Antwoord | Enquête | Interviews | Totaal | Aandeel |
+|---|---|---|---|---|
+| Advies van een expert | 2 | 1 | 3 | 50% |
+| Praktische training voor het team | 3 | 0 | 3 | 50% |
+| Voorbeelden van vergelijkbare bedrijven | 1 | 1 | 2 | 33% |
+| Subsidie of financiering | 1 | 0 | 1 | 17% |
+| Samenwerking met een kennisinstelling | 1 | 0 | 1 | 17% |
 
-*(beantwoord door 5 van 5)*
+*(meerdere antwoorden mogelijk; aandelen op basis van alle 6 deelnemers)*
 
-**Gewenste externe ondersteuning (enquêtevraag 9)**
-
-| Antwoord | Aantal | Aandeel |
-|---|---|---|
-| Praktische training voor het team | 3 | 60% |
-| Advies van een expert | 2 | 40% |
-| Voorbeelden van vergelijkbare bedrijven | 1 | 20% |
-| Subsidie of financiering | 1 | 20% |
-| Samenwerking met een kennisinstelling | 1 | 20% |
-
-*(meerdere antwoorden mogelijk; aandelen op basis van alle 5 inzendingen)*
-
-> **[AANVULLEN UIT INTERVIEWS: interviewvraag 8, 10, 11 en 12]** Regelkennis (spontaan tegenover aangereikt), belemmeringen, investeringsvoorwaarden, prijsvorm en ordegrootte, externe ondersteuning.
+> **[DUIDING DOOR ANALIST: Ayah en Reda]** Nuance bij drempels, investeringsvoorwaarden en leverancierseisen uit interviewvraag 8, 10, 11 en 12.
 
 ### 2.5 Kansen en zorgen
 
-- "Kans: tijdwinst. Zorg: fouten richting klanten." *(Bouw / installatie, 10–49)*
-- "Zorg: klantdata op straat" *(Retail / groothandel, 50–249)*
-- "Kans: administratie. Zorg: AVG en controle kwijtraken." *(Industrie / productie, 10–49)*
+- "Kans: tijdwinst. Zorg: fouten richting klanten." *(Bouw / installatie, 10–49, enquête)*
+- "Zorg: klantdata op straat" *(Retail / groothandel, 50–249, enquête)*
+- "Kans: administratie. Zorg: AVG en controle kwijtraken." *(Industrie / productie, 10–49, enquête)*
+- "Kans: planners ontlasten. Zorg: fout naar klant zonder dat iemand het ziet." *(Logistiek / transport, 50–249, interview I-01)*
 
-> **[AANVULLEN UIT INTERVIEWS: afsluitvraag interviews]** Grootste kans en zorg per interviewbedrijf, plus gewenste duidelijkheid vanuit overheid of wetgeving.
+> **[DUIDING DOOR ANALIST: Reda]** Patronen in kansen en zorgen; koppel aan sector en omvang waar dat betekenisvol is.
 
 ## 3. Conclusies (automatisch voorstel, te valideren)
 
-- 3 van de 5 bedrijven (60%) gebruikt al AI; meest genoemde zelfstandige taak: Projectplanning bijhouden en bijsturen (2x).
-- 4 van de 5 (80%) wil menselijke goedkeuring vooraf (volledig of bij belangrijke beslissingen); volledige autonomie is een minderheidspositie.
-- Meest genoemde drempel: Aansprakelijkheid (1x); meest gevraagde waarborg: Belangrijke acties eerst ter goedkeuring aan een mens (4x).
-- 4 van de 5 (80%) kent de relevante regels (AVG, AI-verordening) niet of weet niet wat ze voor het eigen bedrijf betekenen.
-- 3 van de 5 (60%) noemt een concreet maandbedrag boven nul als betalingsbereidheid bij aantoonbare tijdsbesparing.
+- 4 van de 6 deelnemers (67%) gebruikt al AI; meest genoemde zelfstandige taak: Projectplanning bijhouden en bijsturen (3x).
+- 5 van de 6 (83%) wil menselijke goedkeuring vooraf (volledig of bij belangrijke beslissingen).
+- Meest genoemde drempel: Aansprakelijkheid (2x); meest gevraagde waarborg: Belangrijke acties eerst ter goedkeuring aan een mens (5x).
+- 5 van de 6 (83%) kent de relevante regels niet of weet niet wat ze voor het eigen bedrijf betekenen.
+- In de interviews werden regels vaker pas na aanreiken herkend dan spontaan genoemd; dat wijst op een voorlichtingsgap eerder dan bewuste afweging.
+- 4 van de 6 (67%) noemt een concreet maandbedrag boven nul.
 
-> **[AANVULLEN UIT INTERVIEWS: alle interviewblokken]** Toets elk voorstel hierboven aan de interviewmatrices; benoem per conclusie het aantal dragende bedrijven (enquête plus interviews).
+> **[DUIDING DOOR ANALIST: hoofdonderzoeker]** Valideer, schrap of herformuleer; benoem per conclusie het aantal dragende deelnemers en noem opvallende verschillen tussen enquête en interviews.
 
 ## 4. Aanbevelingen (automatisch voorstel, te valideren)
 
-- Ontwerp agentic AI voor het MKB standaard met menselijke goedkeuring op belangrijke acties; dit is de meest gevraagde waarborg.
-- Zet in op praktische voorlichting over AVG en AI-verordening voor het MKB; de meerderheid kent de regels niet of begrijpt de eigen verplichtingen niet.
-- Richt ondersteuning op wat bedrijven zelf vragen: Praktische training voor het team (3x), Advies van een expert (2x), Voorbeelden van vergelijkbare bedrijven (1x).
-- Adresseer de grootste drempel (Aansprakelijkheid (1x)) expliciet in productontwerp en communicatie.
+- Ontwerp agentic AI voor het MKB standaard met menselijke goedkeuring op belangrijke acties.
+- Zet in op praktische voorlichting over AVG en AI-verordening voor het MKB.
+- Richt ondersteuning op wat bedrijven zelf vragen: Advies van een expert (3x), Praktische training voor het team (3x), Voorbeelden van vergelijkbare bedrijven (2x).
+- Adresseer de grootste drempel (Aansprakelijkheid (2x)) expliciet in product en communicatie.
 
-> **[AANVULLEN UIT INTERVIEWS: interviewvraag 10, 11 en 12]** Vul aan met leverancierseisen en ondersteuningsbehoeften uit de interviews; splits aanbevelingen naar MKB-bedrijven, leveranciers en ondersteunende partijen.
+> **[DUIDING DOOR ANALIST: hoofdonderzoeker]** Splits naar MKB-bedrijven, leveranciers en ondersteunende partijen; onderbouw vanuit hoofdstuk 2 en 3.
 
 ## 5. Gaps en risico's
 
-Gemiste regels of gewenste duidelijkheid (enquêtevraag 7, open deel):
+### 5.1 Gap-register uit de interviews
 
-- "Wie is aansprakelijk als de AI een fout maakt in een offerte?" *(Bouw / installatie, 10–49)*
-- "Weet niet eens welke regels er zijn" *(Retail / groothandel, 50–249)*
-- "Wat mag er met gegevens van medewerkers?" *(Industrie / productie, 10–49)*
+| Bron | Signaal |
+|---|---|
+| interview I-01 | Respondent kent verzekeringsdekking voor AI-fouten niet; uitzoeken of die bestaat |
 
-Automatische signalen uit de gesloten vragen:
+### 5.2 Gemiste regels en gewenste duidelijkheid
 
-- Regelkennis-gap: 4 van de 5 kent AVG/AI-verordening niet of onvoldoende.
-- Aansprakelijkheid als drempel: 1 van de 5 noemt dit als grootste drempel.
-- Privacy/AVG als drempel: 1 van de 5.
-- Vertrouwen/uitlegbaarheid: drempel bij 1, waarborg 'uitleg' gevraagd door 2.
+- "Wie is aansprakelijk als de AI een fout maakt in een offerte?" *(Bouw / installatie, 10–49, enquête)*
+- "Weet niet eens welke regels er zijn" *(Retail / groothandel, 50–249, enquête)*
+- "Wat mag er met gegevens van medewerkers?" *(Industrie / productie, 10–49, enquête)*
+- "Onduidelijk wie aansprakelijk is bij planningsfouten met schade" *(Logistiek / transport, 50–249, interview I-01)*
 
-> **[AANVULLEN UIT INTERVIEWS: gap-register interviews]** Voeg het gap-register toe (gap-regels per blok, 'weet ik niet'-antwoorden, vinkjes onvoldoende zicht) en dedupliceer met de signalen hierboven. Laat elk gemist of onduidelijk juridisch kader in het bureauonderzoek duiden: voorlichtingsgap (kader bestaat, maar is onbekend) of wetgevingsgap (kader ontbreekt of is niet eenduidig).
+Opvattingen over aansprakelijkheid (O, geen juridische conclusies):
+
+- "Denkt dat de leverancier aansprakelijk is, maar weet ik niet zeker" *(Logistiek / transport, 50–249, interview I-01)*
+
+Gewenste duidelijkheid vanuit overheid of wetgeving:
+
+- "Een eenvoudige uitleg van de AI-verordening voor transportbedrijven" *(Logistiek / transport, 50–249, interview I-01)*
+
+### 5.3 Automatische signalen
+
+- Regelkennis-gap: 5 van de 6 kent AVG/AI-verordening niet of onvoldoende.
+- Aansprakelijkheid als grootste drempel: 2 van de 6; privacy/AVG: 1; vertrouwen/uitlegbaarheid: 1.
+- Letterlijke "weet ik niet"-antwoorden: 1 (interview I-01: aansprakelijkheid_opvatting).
+
+> **[DUIDING DOOR ANALIST: hoofdonderzoeker]** Dedupliceer 5.1 t/m 5.3 en duid elk juridisch signaal in het bureauonderzoek: voorlichtingsgap (kader bestaat maar is onbekend) of wetgevingsgap (kader ontbreekt of is niet eenduidig).
 
 ## 6. Vervolgonderzoek
 
-Per gap of risico dat dit onderzoek niet kan beantwoorden volgt één concreet voorstel. Automatische aanzetten op basis van de enquête:
+Automatische aanzetten op basis van de signalen hierboven:
 
-- Juridisch vervolgonderzoek: welke verplichtingen uit de AI-verordening raken MKB-gebruikers van agentic AI concreet, en waar is de uitleg voor kleine organisaties nog niet eenduidig (wetgevingsgap tegenover voorlichtingsgap).
-- Aansprakelijkheidsonderzoek: hoe verdeelt aansprakelijkheid zich tussen gebruiker en leverancier bij zelfstandig handelende agents, en volstaan de bestaande kaders (contractenrecht, productaansprakelijkheid) voor het MKB.
+- Juridisch vervolgonderzoek: welke verplichtingen uit de AI-verordening raken MKB-gebruikers van agentic AI concreet, en waar is de uitleg voor kleine organisaties niet eenduidig.
+- Aansprakelijkheidsonderzoek: verdeling tussen gebruiker en leverancier bij zelfstandig handelende agents; volstaan bestaande kaders voor het MKB.
 - Vervolgmeting: herhaal de enquête na publicatie van de whitepaper om verschuiving in regelkennis en adoptie te meten.
 
-> **[AANVULLEN UIT INTERVIEWS: gap-register interviews]** Vul de lijst aan vanuit het gap-register; formuleer per item een onderzoeksvraag, beoogde methode en relevante juridische kaders of wetgeving.
+> **[DUIDING DOOR ANALIST: hoofdonderzoeker]** Formuleer per gap uit hoofdstuk 5 één onderzoeksvraag met beoogde methode en de juridische kaders of wetgeving die duiding vragen.
 
 ---
-*Gegenereerd met verwerk_enquete.py (MIT-28436). Persoonsgegevens worden bij het inlezen verwijderd en staan niet in dit document. Open antwoorden vóór publicatie controleren op herleidbaarheid.*
+*Gegenereerd met verwerk_enquete.py (MIT-28436). Persoonsgegevens worden bij het inlezen verwijderd. Open antwoorden en citaten vóór publicatie controleren op herleidbaarheid; citeren alleen bij vastgelegde toestemming (veld citaat_toestemming).*

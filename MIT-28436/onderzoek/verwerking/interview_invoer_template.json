@@ -1,0 +1,56 @@
+{
+  "_uitleg": "Invoersjabloon voor één uitgewerkt interview (MIT-28436). Kopieer dit bestand per interview (bijv. interview_I-03.json), vul de velden en verwijder de _uitleg- en _opties-regels. Codeer de antwoorden in dezelfde categorieën als de enquête (zie Analysekader); open velden letterlijk overnemen uit de notities, zonder naam of bedrijfsnaam van de respondent. Niet beantwoord: veld leeg laten of weglaten. Letterlijk 'weet ik niet' gezegd: dat als tekst in het veld zetten.",
+  "type": "interview",
+  "interviewnummer": "I-01",
+  "interviewer": "Amin | Ayah | Reda",
+  "datum": "2026-11-05",
+
+  "sector": "Bouw / installatie",
+  "omvang": "10–49",
+  "_opties_omvang": "1 (zzp) | 2–9 | 10–49 | 50–249 | 250+",
+  "regio": "Flevoland",
+  "_opties_regio": "Flevoland | Metropoolregio Amsterdam | Elders in Nederland",
+
+  "ai_gebruik": "soms",
+  "_opties_ai_gebruik": "dagelijks | soms | interesse | nee",
+  "ai_toelichting": "Letterlijke kern van het antwoord: waarvoor AI wordt gebruikt, of reden om het niet te doen (interviewvraag 1 en 5)",
+
+  "taken": ["planning", "offertes"],
+  "_opties_taken": "planning | cashflow | offertes | klantcommunicatie | content | campagnes | geen (meerdere mogelijk; interviewvraag 2, 6 en 9)",
+  "nooit": "Wat de respondent een agent nooit zelfstandig zou laten doen, met reden (interviewvraag 2, 3 en 6)",
+
+  "controle": "belangrijk_vooraf",
+  "_opties_controle": "alles_vooraf | belangrijk_vooraf | achteraf | zelfstandig (interviewvraag 3 en 7)",
+
+  "drempel": "vertrouwen",
+  "_opties_drempel": "vertrouwen | privacy | aansprakelijkheid | kosten | kennis | anders (grootste belemmering; interviewvraag 10)",
+
+  "waarborgen": ["goedkeuring", "stoppen"],
+  "_opties_waarborgen": "goedkeuring | logboek | uitleg | stoppen | keurmerk (meerdere mogelijk; interviewvraag 4, 7 en 8)",
+
+  "regels_bekend": "gehoord",
+  "_opties_regels_bekend": "onbekend | gehoord | globaal | goed (interviewvraag 8, juridische doorvraag)",
+  "regels_spontaan": ["AVG"],
+  "regels_aangereikt": ["AI-verordening"],
+  "regels_gemist": "Welke regel of duidelijkheid de respondent mist (letterlijk; interviewvraag 8 slot)",
+  "aansprakelijkheid_opvatting": "Opvatting (O) over wie verantwoordelijk is bij schade door een agent (interviewvraag 4, juridische doorvraag); 'weet ik niet' letterlijk noteren",
+
+  "budget": "€150 – €500",
+  "_opties_budget": "Niets | Tot €50 | €50 – €150 | €150 – €500 | €500 – €1.500 | Meer dan €1.500 | Dat hangt ervan af (ordegrootte; interviewvraag 11)",
+  "prijsvorm": "per maand",
+  "_opties_prijsvorm": "per maand | per gebruiker | per project | eenmalig | hangt ervan af (interviewvraag 11, doorvraag betalingsbereidheid)",
+
+  "ondersteuning": ["advies", "training"],
+  "_opties_ondersteuning": "advies | training | subsidie | voorbeelden | kennisinstelling | geen (meerdere mogelijk; interviewvraag 12)",
+
+  "kans_zorg": "Grootste kans: ... Grootste zorg: ... (afsluitvraag, letterlijke kern)",
+  "duidelijkheid_overheid": "Gewenste duidelijkheid vanuit overheid of wetgeving (afsluiting, doorvraag)",
+
+  "gap_signalen": [
+    "Elk signaal voor gap of vervolgonderzoek van de gap-regels per blok, één per regel"
+  ],
+  "onvoldoende_zicht": [],
+  "_opties_onvoldoende_zicht": "projectmanagement | marketing | ai_agents (blokken waar het vinkje 'onvoldoende zicht' is gezet)",
+  "voorbeeldkaart_gebruikt": false,
+  "citaat_toestemming": false
+}

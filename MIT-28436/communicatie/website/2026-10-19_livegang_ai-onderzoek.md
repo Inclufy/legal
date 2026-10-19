@@ -23,6 +23,10 @@ Archiefversie van de pagina (standalone HTML, zelfde inhoud): `ai-onderzoek-pagi
 - Formulieropslag: `FORM_ENDPOINT` is nog leeg; inzendingen lopen tijdelijk via de mailto-fallback naar sami@inclufy.com. Koppeling aan een backend (gescheiden opslag van antwoorden en contactgegevens, bewaartermijn uiterlijk maart 2027) volgt.
 - Testinzendingen (met gegevens én anoniem) en QR-scan uitgevoerd door S. Loukile na livegang.
 
+## Update 19 oktober 2026, ca. 21:45: enquête v2 en partnersectie live
+
+Tweede deploy dezelfde avond: GitHub PR #27 (squash-commit `79e8ace`, CI groen) als cherry-pick `4d52787` op GitLab-`main` gezet; pipeline #2964760889 (validate, build_and_push, deploy_to_server) volledig geslaagd. Wijzigingen: de tien enquêtevragen gelijkgetrokken met Interviewvragenlijst v2 volgens het Analysekader (profielvragen apart; nieuw: menselijke controle, bekendheid AVG/AI-verordening met open veld gemiste regels, externe ondersteuning, grootste kans en zorg), en de partnersectie toont Provincie Flevoland, House of Digital, AI & Partners en ROC van Amsterdam en Flevoland (logokaarten; naamweergave zolang de logobestanden nog niet zijn geplaatst).
+
 ## Context distributie
 
 Pagina ondersteunt de wervingscampagne: LinkedIn-post (zie `2026-09-29_LinkedIn_post_onderzoek.md`), digitale flyer naar VBA Almere (400 ondernemers) en het ondernemersontbijt van woensdag 21 oktober 2026, 7:45 uur, Ondernemersplein Almere.

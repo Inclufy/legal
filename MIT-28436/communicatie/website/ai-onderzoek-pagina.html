@@ -61,7 +61,7 @@
 <div class="hero wrap">
   <span class="label">ONDERZOEK &middot; AGENTIC AI IN HET MKB</span>
   <h1>Wat zou jij een AI-agent zelfstandig laten doen in je bedrijf? <span class="accent">En wat juist nooit?</span></h1>
-  <p class="intro">Inclufy onderzoekt, in samenwerking met de provincie Flevoland, of het Nederlandse MKB klaar is voor AI die écht werk uit handen neemt. Jouw ervaring, ook als je nog niets met AI doet, is daarvoor goud waard. Invullen kost een paar minuten; als dank ontvang je in december als eerste de whitepaper.</p>
+  <p class="intro">Inclufy onderzoekt, in samenwerking met de provincie Flevoland, of het Nederlandse MKB klaar is voor AI die écht werk uit handen neemt. Jouw ervaring, ook als je nog niets met AI doet, is daarvoor goud waard. Invullen kost een paar minuten; iedereen die de enquête invult, ontvangt in december als eerste de whitepaper.</p>
   <a class="cta-knop" href="#enquete">Vul de enqu&ecirc;te in &darr;</a>
 </div>
 
@@ -86,7 +86,7 @@
     <h3>Whitepaper: "Juridische kaders voor agentic AI in het MKB"</h3>
     <p>In december publiceren we een vrij toegankelijke whitepaper: wat mag er, wat moet er, en wat heb je als ondernemer nodig om AI verantwoord zelfstandig te laten werken. Met praktijkbevindingen uit de interviews en concrete aanbevelingen, geschreven voor ondernemers, niet voor juristen.</p>
     <ul class="vink">
-      <li>Deelnemers aan de enqu&ecirc;te of een interview ontvangen de whitepaper als eerste</li>
+      <li>Iedereen die de enqu&ecirc;te invult of meedoet aan een interview, ontvangt de whitepaper als eerste</li>
       <li>De bevindingen voeden daarnaast een praktijkgerichte AI-governance-training die met onderwijspartners wordt ontwikkeld</li>
       <li>Alle resultaten worden geanonimiseerd verwerkt; geen enkel antwoord is herleidbaar tot jouw bedrijf</li>
     </ul>
@@ -194,14 +194,33 @@
       </fieldset>
 
       <fieldset>
-        <label class="vraag" for="email">E-mailadres (optioneel): ontvang de whitepaper in december als eerste</label>
-        <input type="email" id="email" name="email" placeholder="naam@bedrijf.nl">
-        <label class="optie" style="margin-top:12px;"><input type="checkbox" name="interview" value="ja"> <b>Ik sta open voor een interview van een half uur:</b> neem contact met me op (online of op locatie, gepland rond jouw agenda)</label>
+        <legend>Jouw gegevens: zo kunnen we je de whitepaper toesturen</legend>
+        <div class="twee">
+          <div>
+            <label class="vraag" for="naam">Naam *</label>
+            <input type="text" id="naam" name="naam" required placeholder="Voor- en achternaam">
+          </div>
+          <div>
+            <label class="vraag" for="bedrijf">Bedrijfsnaam *</label>
+            <input type="text" id="bedrijf" name="bedrijf" required placeholder="Naam van je bedrijf">
+          </div>
+        </div>
+        <div class="twee" style="margin-top:14px;">
+          <div>
+            <label class="vraag" for="email">E-mailadres *</label>
+            <input type="email" id="email" name="email" required placeholder="naam@bedrijf.nl">
+          </div>
+          <div>
+            <label class="vraag" for="telefoon">Telefoon (optioneel, voor het inplannen van een interview)</label>
+            <input type="text" id="telefoon" name="telefoon" placeholder="06 ...">
+          </div>
+        </div>
+        <label class="optie" style="margin-top:14px;"><input type="checkbox" name="interview" value="ja"> <b>Ik sta open voor een interview van een half uur:</b> neem contact met me op (online of op locatie, gepland rond jouw agenda)</label>
       </fieldset>
 
       <div class="privacy">
         <label class="optie" style="color:var(--grijs);"><input type="checkbox" name="akkoord" value="ja" required>
-        Ik ga ermee akkoord dat mijn antwoorden worden gebruikt voor dit onderzoek. Antwoorden worden geanonimiseerd verwerkt en nooit herleidbaar tot mijn bedrijf gepubliceerd; geanonimiseerde en gebundelde inzichten kunnen worden gedeeld met de onderwijspartners van het onderzoek. Mijn e-mailadres wordt uitsluitend gebruikt om de whitepaper toe te sturen en/of een interview in te plannen, en daarna verwijderd. Vragen of gegevens laten verwijderen: sami@inclufy.com.</label>
+        Ik ga ermee akkoord dat mijn antwoorden worden gebruikt voor dit onderzoek. Mijn antwoorden worden gescheiden van mijn naam en bedrijfsnaam verwerkt, geanonimiseerd geanalyseerd en nooit herleidbaar tot mijn bedrijf gepubliceerd; geanonimiseerde en gebundelde inzichten kunnen worden gedeeld met de onderwijspartners van het onderzoek. Mijn naam, bedrijfsnaam, e-mailadres en eventuele telefoonnummer worden uitsluitend gebruikt om de whitepaper toe te sturen en, als ik dat heb aangevinkt, een interview in te plannen; uiterlijk drie maanden na toezending van de whitepaper worden deze gegevens verwijderd. Vragen of gegevens eerder laten verwijderen: sami@inclufy.com.</label>
       </div>
 
       <button type="submit">Verstuur mijn antwoorden</button>

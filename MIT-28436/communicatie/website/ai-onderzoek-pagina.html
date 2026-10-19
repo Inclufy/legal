@@ -113,7 +113,49 @@
 
     <!-- WEBBEHEER: koppel dit formulier aan jullie formulier-handler (eigen backend of dienst).
          Vervang action="#" door het endpoint en verwijder deze opmerking. -->
-    <form action="#" method="post">
+    <form action="#" method="post" id="enqueteform">
+
+      <fieldset id="stap1">
+        <legend>Stap 1 van 2: hoe wil je meedoen?</legend>
+        <label class="optie"><input type="radio" name="deelname" value="met_gegevens" id="dln_gegevens" checked> <b>Met mijn gegevens</b>: ik ontvang de whitepaper als eerste en kan worden uitgenodigd voor een interview</label>
+        <label class="optie"><input type="radio" name="deelname" value="anoniem" id="dln_anoniem"> <b>Anoniem</b>: alleen mijn antwoorden tellen mee; ik laat geen gegevens achter</label>
+
+        <div id="gegevensblok" style="margin-top:16px;">
+          <div class="twee">
+            <div>
+              <label class="vraag" for="naam">Naam *</label>
+              <input type="text" id="naam" name="naam" required placeholder="Voor- en achternaam">
+            </div>
+            <div>
+              <label class="vraag" for="bedrijf">Bedrijfsnaam *</label>
+              <input type="text" id="bedrijf" name="bedrijf" required placeholder="Naam van je bedrijf">
+            </div>
+          </div>
+          <div class="twee" style="margin-top:14px;">
+            <div>
+              <label class="vraag" for="email">E-mailadres *</label>
+              <input type="email" id="email" name="email" required placeholder="naam@bedrijf.nl">
+            </div>
+            <div>
+              <label class="vraag" for="telefoon">Telefoon (optioneel, voor het inplannen van een interview)</label>
+              <input type="text" id="telefoon" name="telefoon" placeholder="06 ...">
+            </div>
+          </div>
+          <label class="optie" style="margin-top:14px;"><input type="checkbox" name="whitepaper" value="ja" checked> <b>Ja, stuur mij in december de whitepaper</b> "Juridische kaders voor agentic AI in het MKB" (gratis, als eerste)</label>
+          <label class="optie"><input type="checkbox" name="interview" value="ja"> <b>Ik sta open voor een interview van een half uur:</b> neem contact met me op (online of op locatie, gepland rond jouw agenda)</label>
+        </div>
+        <p id="anoniemnoot" style="display:none;margin-top:12px;font-size:14px;color:#33526B;">Je doet volledig anoniem mee. De whitepaper kunnen we je dan niet toesturen; die verschijnt in december ook op deze website.</p>
+
+        <div class="privacy">
+          <label class="optie" style="color:var(--grijs);"><input type="checkbox" name="akkoord" value="ja" required>
+          Ik ga ermee akkoord dat mijn antwoorden worden gebruikt voor dit onderzoek. Mijn antwoorden worden gescheiden van mijn eventuele naam en bedrijfsnaam verwerkt, geanonimiseerd geanalyseerd en nooit herleidbaar tot mijn bedrijf gepubliceerd; geanonimiseerde en gebundelde inzichten kunnen worden gedeeld met de onderwijspartners van het onderzoek. Als ik gegevens achterlaat, worden die uitsluitend gebruikt om, als ik dat heb aangevinkt, de whitepaper toe te sturen en/of een interview in te plannen; uiterlijk drie maanden na toezending van de whitepaper worden ze verwijderd. Vragen of gegevens eerder laten verwijderen: sami@inclufy.com.</label>
+        </div>
+
+        <button type="button" id="naarvragen">Naar de vragen &darr;</button>
+      </fieldset>
+
+      <div id="vragenblok" style="display:none;">
+      <p style="font-weight:700;color:var(--navy);font-size:17px;margin-bottom:14px;">Stap 2 van 2: de tien vragen</p>
       <fieldset>
         <label class="vraag" for="sector">1. In welke sector is je bedrijf actief?</label>
         <select id="sector" name="sector" required>
@@ -193,39 +235,37 @@
         <label class="optie"><input type="radio" name="training" value="nee"> Nee</label>
       </fieldset>
 
-      <fieldset>
-        <legend>Jouw gegevens: zo kunnen we je de whitepaper toesturen</legend>
-        <div class="twee">
-          <div>
-            <label class="vraag" for="naam">Naam *</label>
-            <input type="text" id="naam" name="naam" required placeholder="Voor- en achternaam">
-          </div>
-          <div>
-            <label class="vraag" for="bedrijf">Bedrijfsnaam *</label>
-            <input type="text" id="bedrijf" name="bedrijf" required placeholder="Naam van je bedrijf">
-          </div>
-        </div>
-        <div class="twee" style="margin-top:14px;">
-          <div>
-            <label class="vraag" for="email">E-mailadres *</label>
-            <input type="email" id="email" name="email" required placeholder="naam@bedrijf.nl">
-          </div>
-          <div>
-            <label class="vraag" for="telefoon">Telefoon (optioneel, voor het inplannen van een interview)</label>
-            <input type="text" id="telefoon" name="telefoon" placeholder="06 ...">
-          </div>
-        </div>
-        <label class="optie" style="margin-top:14px;"><input type="checkbox" name="whitepaper" value="ja" checked> <b>Ja, stuur mij in december de whitepaper</b> "Juridische kaders voor agentic AI in het MKB" (gratis, als eerste)</label>
-        <label class="optie"><input type="checkbox" name="interview" value="ja"> <b>Ik sta open voor een interview van een half uur:</b> neem contact met me op (online of op locatie, gepland rond jouw agenda)</label>
-      </fieldset>
-
-      <div class="privacy">
-        <label class="optie" style="color:var(--grijs);"><input type="checkbox" name="akkoord" value="ja" required>
-        Ik ga ermee akkoord dat mijn antwoorden worden gebruikt voor dit onderzoek. Mijn antwoorden worden gescheiden van mijn naam en bedrijfsnaam verwerkt, geanonimiseerd geanalyseerd en nooit herleidbaar tot mijn bedrijf gepubliceerd; geanonimiseerde en gebundelde inzichten kunnen worden gedeeld met de onderwijspartners van het onderzoek. Mijn naam, bedrijfsnaam, e-mailadres en eventuele telefoonnummer worden uitsluitend gebruikt om, als ik dat heb aangevinkt, de whitepaper toe te sturen en/of een interview in te plannen; uiterlijk drie maanden na toezending van de whitepaper worden deze gegevens verwijderd. Vragen of gegevens eerder laten verwijderen: sami@inclufy.com.</label>
+      <button type="submit" style="margin-top:18px;">Verstuur mijn antwoorden</button>
       </div>
-
-      <button type="submit">Verstuur mijn antwoorden</button>
     </form>
+
+    <script>
+    (function(){
+      var anoniem = document.getElementById('dln_anoniem'),
+          metGeg  = document.getElementById('dln_gegevens'),
+          blok    = document.getElementById('gegevensblok'),
+          noot    = document.getElementById('anoniemnoot'),
+          velden  = ['naam','bedrijf','email'].map(function(id){ return document.getElementById(id); });
+      function wissel(){
+        var anon = anoniem.checked;
+        blok.style.display = anon ? 'none' : '';
+        noot.style.display = anon ? '' : 'none';
+        velden.forEach(function(v){ v.required = !anon; if (anon) v.value=''; });
+      }
+      anoniem.addEventListener('change', wissel);
+      metGeg.addEventListener('change', wissel);
+      document.getElementById('naarvragen').addEventListener('click', function(){
+        var ok = true;
+        if (!anoniem.checked) velden.forEach(function(v){ if(!v.reportValidity()) ok = false; });
+        var akkoord = document.querySelector('input[name=akkoord]');
+        if (ok && !akkoord.reportValidity()) ok = false;
+        if (!ok) return;
+        document.getElementById('vragenblok').style.display = '';
+        this.style.display = 'none';
+        document.getElementById('vragenblok').scrollIntoView({behavior:'smooth'});
+      });
+    })();
+    </script>
   </div>
 </section>
 

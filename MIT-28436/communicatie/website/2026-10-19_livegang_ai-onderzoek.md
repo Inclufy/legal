@@ -27,6 +27,13 @@ Archiefversie van de pagina (standalone HTML, zelfde inhoud): `ai-onderzoek-pagi
 
 Tweede deploy dezelfde avond: GitHub PR #27 (squash-commit `79e8ace`, CI groen) als cherry-pick `4d52787` op GitLab-`main` gezet; pipeline #2964760889 (validate, build_and_push, deploy_to_server) volledig geslaagd. Wijzigingen: de tien enquêtevragen gelijkgetrokken met Interviewvragenlijst v2 volgens het Analysekader (profielvragen apart; nieuw: menselijke controle, bekendheid AVG/AI-verordening met open veld gemiste regels, externe ondersteuning, grootste kans en zorg), en de partnersectie toont Provincie Flevoland, House of Digital, AI & Partners en ROC van Amsterdam en Flevoland (logokaarten; naamweergave zolang de logobestanden nog niet zijn geplaatst).
 
+## Update 19 oktober 2026, ca. 22:15: interviewinvoer, mobiele fix en footer
+
+Derde en vierde wijziging dezelfde avond, beide met groene pipeline gedeployed:
+
+- **Besloten interviewinvoer** (GitHub PR #29, op GitLab als `b5f512f`): formulier voor het onderzoeksteam op /ai-onderzoek?invoer=interview (niet publiek gelinkt) voor gecodeerde interviewuitkomsten in de categorieën van het Analysekader; inzendingen dragen type "interview" zodat verwerking de bronnen gescheiden houdt. Bijbehorende werkinstructie voor het team: `MIT-28436/onderzoek/Werkinstructie_Interviews_Invoer_MIT_28436.pdf`.
+- **Mobiele aanvink-fix en footer** (GitHub PR #30, op GitLab als `9645be2`): checkboxen en keuzerondjes 21px met de hele antwoordregel als tikvlak (opgelost: niet-aanvinkbare opties op telefoons, kritisch voor QR-verkeer); formele projectregel uit de footer, de verplichte provincievermelding blijft. PR #30 is gemerged met groene Validate-check (TypeScript, build, tests); de adviserende SonarCloud-check stond op "Maintainability B op nieuwe code" en is genoteerd voor latere opschoning. Aanvinken op telefoon na deploy door S. Loukile bevestigd.
+
 ## Context distributie
 
 Pagina ondersteunt de wervingscampagne: LinkedIn-post (zie `2026-09-29_LinkedIn_post_onderzoek.md`), digitale flyer naar VBA Almere (400 ondernemers) en het ondernemersontbijt van woensdag 21 oktober 2026, 7:45 uur, Ondernemersplein Almere.

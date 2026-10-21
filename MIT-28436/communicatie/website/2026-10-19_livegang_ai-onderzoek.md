@@ -34,6 +34,17 @@ Derde en vierde wijziging dezelfde avond, beide met groene pipeline gedeployed:
 - **Besloten interviewinvoer** (GitHub PR #29, op GitLab als `b5f512f`): formulier voor het onderzoeksteam op /ai-onderzoek?invoer=interview (niet publiek gelinkt) voor gecodeerde interviewuitkomsten in de categorieën van het Analysekader; inzendingen dragen type "interview" zodat verwerking de bronnen gescheiden houdt. Bijbehorende werkinstructie voor het team: `MIT-28436/onderzoek/Werkinstructie_Interviews_Invoer_MIT_28436.pdf`.
 - **Mobiele aanvink-fix en footer** (GitHub PR #30, op GitLab als `9645be2`): checkboxen en keuzerondjes 21px met de hele antwoordregel als tikvlak (opgelost: niet-aanvinkbare opties op telefoons, kritisch voor QR-verkeer); formele projectregel uit de footer, de verplichte provincievermelding blijft. PR #30 is gemerged met groene Validate-check (TypeScript, build, tests); de adviserende SonarCloud-check stond op "Maintainability B op nieuwe code" en is genoteerd voor latere opschoning. Aanvinken op telefoon na deploy door S. Loukile bevestigd.
 
+## Update 20 en 21 oktober 2026: vraagverbetering, interviewplanning en agenda
+
+Reeks wijzigingen, elk via GitHub-PR met validatie en daarna via de GitLab-pipeline gedeployed (vanaf 21 oktober met lokale validatie als poort, omdat de GitHub Actions-runners faalden zonder één stap uit te voeren; de blokkerende GitLab-validate bleef de productiepoort):
+
+- **Scherpere vraagstelling** enquête (PR #33) en Interviewvragenlijst v2.1: expliciete benoeming in elke vraag, definitie van AI-agent boven de vragen, AVG als privacywet toegelicht.
+- **Vraag 5 meerkeuze** (PR #34) met optie "Niets, we zouden zo kunnen starten", na feedback eerste tester.
+- **Interviewplanning in de enquête** (PR #37): bij interviewbereidheid kiest de respondent vormvoorkeur (online, op locatie, geen voorkeur) en tot drie voorkeursmomenten (datum plus dagdeel).
+- **Interview ook bij anonieme deelname** (PR #40): alleen een e-mailadres voor het plannen, los van de antwoorden opgeslagen; getest en werkend bevonden op 21 oktober.
+- **Provincielogo** op de partnerkaart (PR #38) en in de footer naast de subsidievermelding (PR #39); partnersectie toont op verzoek alleen de provincie.
+- **Backend**: mailnotificatie per inzending naar de hoofdonderzoeker (met vlag "WIL EEN INTERVIEW"), interviewagenda in de admin (Contactaanmeldingen met voorkeuren, interviewer-koppeling en status), token-beveiligd export-endpoint voor het concept-whitepaper, en beheerdersaccounts met beperkte rechten voor Amin, Ayah en Reda (groep Onderzoeksteam: alleen de agenda plus leesrechten op inzendingen).
+
 ## Context distributie
 
 Pagina ondersteunt de wervingscampagne: LinkedIn-post (zie `2026-09-29_LinkedIn_post_onderzoek.md`), digitale flyer naar VBA Almere (400 ondernemers) en het ondernemersontbijt van woensdag 21 oktober 2026, 7:45 uur, Ondernemersplein Almere.

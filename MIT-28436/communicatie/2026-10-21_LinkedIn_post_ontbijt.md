@@ -6,7 +6,7 @@
 
 Onderzoek naar AI in het MKB: de eerste oogst is binnen
 
-Gisterochtend mocht ik ons onderzoek, dat we uitvoeren in samenwerking met de provincie Flevoland, presenteren tijdens het ondernemersontbijt van VBA Almere op het Ondernemersplein. Zo'n twintig ondernemers, goede vragen, en één observatie die bleef hangen:
+Vanochtend mocht ik ons onderzoek, dat we uitvoeren in samenwerking met de provincie Flevoland, presenteren tijdens het ondernemersontbijt van VBA Almere op het Ondernemersplein. Zo'n twintig ondernemers, goede vragen, en één observatie die bleef hangen:
 
 Vrijwel iedereen in de zaal gebruikt al AI. Maar toen ik vroeg wie diezelfde AI zelfstandig een offerte zou laten versturen, ging bijna geen hand omhoog. En op de vraag welke regels er eigenlijk gelden, bleef het stil.
 

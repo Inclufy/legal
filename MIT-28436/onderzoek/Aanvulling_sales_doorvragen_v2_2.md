@@ -1,22 +1,40 @@
-# Aanvulling vragenlijst: vaste sales-doorvragen (v2.2)
+# Aanvulling vragenlijst v2.2: gespreksvolgorde, AI-geletterdheid, sales- en wetgevingsdoorvragen
 
-**Project:** MIT-28436 · **Datum:** 11 november 2026 · **Besluit hoofdonderzoeker**
+**Project:** MIT-28436 · **Datum:** 11 november 2026 · **Besluit hoofdonderzoeker, vóór het eerste bedrijfsinterview**
 
-Met ingang van het eerste bedrijfsinterview (11 november 2026) worden drie vaste sales-doorvragen gesteld bij vraag 6 en 7 van Interviewvragenlijst v2.1. De twaalf hoofdvragen, de volgorde, de tijdsindeling en de antwoordcategorieën van v2.1 blijven ongewijzigd; het Analysekader blijft gelden. Omdat de doorvragen vanaf interview 1 bij alle respondenten worden gesteld, blijven de interviews onderling vergelijkbaar.
+Met ingang van het eerste bedrijfsinterview (11 november 2026) geldt de volgende aanvulling op Interviewvragenlijst v2.1. De twaalf hoofdvragen, de antwoordcategorieën en het Analysekader blijven ongewijzigd; omdat de aanvulling vanaf interview 1 bij alle respondenten gelijk wordt toegepast, blijven de interviews onderling vergelijkbaar.
 
-## De doorvragen (blok 2, klantcontact)
+## 1. Gespreksvolgorde
 
-- **7a.** Zou u een AI-agent toevertrouwen om een offerte zelfstandig op te stellen én direct naar de klant te versturen, zonder dat iemand hem eerst ziet? (ja, volledig zelfstandig / alleen met goedkeuring vooraf / nee, nooit; reden letterlijk noteren)
-- **7b.** Mag een AI-agent zelfstandig prijzen of kortingen bepalen, binnen grenzen die u vooraf stelt? (ja / alleen binnen strikte grenzen / nee)
-- **7c.** Mag een AI-agent zelfstandig leads opvolgen, dus zelf potentiële klanten mailen of benaderen? (ja, volledig zelfstandig / alleen met goedkeuring vooraf / nee)
+Nieuwe blokindeling (totaal onveranderd maximaal 40 minuten): introductie en profiel (0–4) · **AI-kennis en -kunde / AI-geletterdheid** (4–9) · **AI in sales** (9–15) · **marketing inclusief wetgevingsluik** (15–23, vraag 5–8) · **projectmanagement** (23–31, vraag 1–4) · **AI-agents voor het mkb** (31–36, vraag 9–12) · afsluiting (36–40). Motivering: het gesprek opent bij de eigen praktijk van de ondernemer (laagdrempelig), gaat dan naar de omzetkant waar de autonomiegrens het scherpst is, en eindigt vooruitkijkend. De analyse is per vraag en per uitkomstcategorie en is onafhankelijk van de gespreksvolgorde.
 
-## Verwerking
+## 2. Blok AI-kennis en -kunde (AI-geletterdheid)
 
-- Notities vallen onder blok 2 (notitieveld "Sales-grens"); markeren met H/V/O zoals alle notities.
-- De uitkomsten voeden de whitepaper-onderdelen Conclusies (grenzen aan autonomie) en Aanbevelingen (vereiste waarborgen bij klantgerichte acties); de offertevraag sluit aan op de bestaande taakcategorie "offertes" uit enquêtevraag 2 en interviewvraag 2.
-- In het invoerformulier worden de uitkomsten voorlopig genoteerd in het notitieveld van blok 2; een eigen invoerveld kan later worden toegevoegd zonder de bestaande inzendingen te raken.
-- De enquête wordt niet aangepast; de sales-grens is een verdiepend interviewthema.
+- **K1.** Waarvoor gebruikt uw bedrijf AI op dit moment, en wat levert dat concreet op? (codering: bestaande categorie AI-gebruik plus toelichting)
+- **K2.** Hoe zorgt uw bedrijf ervoor dat medewerkers begrijpen wat AI wel en niet kan, en er verantwoord mee omgaan? Wie beslist over de inzet van AI? (inschatting geletterdheid team: laag / basis / gevorderd)
+- **K3.** Juridische doorvraag: bekendheid met de AI-geletterdheidsverplichting uit de Europese AI-verordening (artikel 4). "Weet ik niet" telt mee in het gap-register.
 
-Het interviewwerkblad (`Interviewwerkblad_MIT_28436.pdf`/`.docx`) bevat de doorvragen met aanvinkbare antwoordcategorieën.
+## 3. Vaste sales-doorvragen (blok AI in sales)
+
+- **S1.** Welke rol zou AI in uw verkoopproces mogen spelen, van eerste klantcontact tot offerte, en waar ligt de grens?
+- **S2 (7a).** Offerte zelfstandig opstellen én direct versturen zonder controle vooraf? (ja / alleen met goedkeuring vooraf / nee, nooit; reden letterlijk)
+- **S3 (7b).** Zelfstandig prijzen of kortingen bepalen binnen vooraf gestelde grenzen? (ja / alleen binnen strikte grenzen / nee)
+- **S4 (7c).** Zelfstandig leads opvolgen, dus zelf potentiële klanten benaderen? (ja / alleen met goedkeuring vooraf / nee)
+
+## 4. Wetgevingsluik (bij vraag 8) en W1
+
+Het bestaande tweetrapsprotocol van vraag 8 blijft de kern (eerst spontaan laten noemen, dan AVG en AI-verordening aanreiken; gemiste regels noteren). Toegevoegd als vaste slotdoorvraag:
+
+- **W1.** Als u morgen één regel of duidelijkheid van de overheid zou mogen vragen rond AI in uw bedrijf: welke zou dat zijn? (letterlijk noteren als O; voedt het gaps-hoofdstuk)
+
+## 5. Gesprekstoon
+
+Het interview is een gesprek met een rode draad, geen afvinklijst: bruggetjes tussen de blokken staan in het werkblad, eigen kennis wordt pas ná de antwoorden gedeeld, en de ondernemer krijgt aan het eind iets terug (één of twee inzichten uit het bureauonderzoek en de toezegging van de whitepaper). Dit beïnvloedt de vraagstelling niet.
+
+## 6. Verwerking
+
+K1/K2/K3 voeden het veld AI-gebruik en toelichting plus het gap-register; S1–S4 het notitieveld "Sales-grens" van het marketingblok; W1 het gap-register. Invoer via het bestaande formulier; eigen invoervelden kunnen later worden toegevoegd zonder bestaande inzendingen te raken. De enquête wordt niet aangepast.
+
+Het interviewwerkblad (`Interviewwerkblad_MIT_28436.pdf`/`.docx`) is de uitvoeringsvorm van dit besluit.
 
 Mede mogelijk gemaakt door een subsidie van de provincie Flevoland.

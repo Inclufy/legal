@@ -45,6 +45,11 @@ ORDES = {
     "controle": ["alles_vooraf", "belangrijk_vooraf", "achteraf", "zelfstandig"],
     "drempel": ["vertrouwen", "privacy", "aansprakelijkheid", "kosten", "kennis", "anders"],
     "regels_bekend": ["onbekend", "gehoord", "globaal", "goed"],
+    "geletterdheid_team": ["laag", "basis", "gevorderd"],
+    "geletterdheid_plicht": ["ja", "nee"],
+    "sales_offerte": ["zelfstandig", "goedkeuring", "nooit"],
+    "sales_prijs": ["ja", "strikte_grenzen", "nee"],
+    "sales_leads": ["zelfstandig", "goedkeuring", "nee"],
 }
 
 LABELS = {
@@ -72,6 +77,17 @@ LABELS = {
                       "kennisinstelling": "Samenwerking met een kennisinstelling", "geen": "Geen behoefte"},
     "onvoldoende_zicht": {"projectmanagement": "Projectmanagement", "marketing": "Marketing",
                           "ai_agents": "AI-agents voor het mkb"},
+    "geletterdheid_team": {"laag": "Laag (incidenteel, geen afspraken)",
+                           "basis": "Basis (enkelen vaardig, niets vastgelegd)",
+                           "gevorderd": "Gevorderd (training of afspraken aanwezig)"},
+    "geletterdheid_plicht": {"ja": "Kende de AI-geletterdheidsplicht",
+                             "nee": "Kende de AI-geletterdheidsplicht niet"},
+    "sales_offerte": {"zelfstandig": "Ja, volledig zelfstandig",
+                      "goedkeuring": "Alleen met goedkeuring vooraf", "nooit": "Nee, nooit"},
+    "sales_prijs": {"ja": "Ja", "strikte_grenzen": "Alleen binnen strikte grenzen",
+                    "nee": "Nee, prijs blijft mensenwerk"},
+    "sales_leads": {"zelfstandig": "Ja, volledig zelfstandig",
+                    "goedkeuring": "Alleen met goedkeuring vooraf", "nee": "Nee"},
 }
 
 DUIDING = "> **[DUIDING DOOR ANALIST: {wie}]** {wat}\n"
@@ -201,6 +217,9 @@ def genereer(inz):
     toelichting = open_antwoorden(inz, "ai_toelichting")
     aanspr = open_antwoorden(intv, "aansprakelijkheid_opvatting")
     duidelijk = open_antwoorden(inz, "duidelijkheid_overheid")
+    sales_reden = open_antwoorden(inz, "sales_reden")
+    overheid_wens = open_antwoorden(inz, "overheid_wens")
+    gelet_reactie = open_antwoorden(intv, "geletterdheid_reactie")
     spontaan = tel(intv, "regels_spontaan")
     aangereikt = tel(intv, "regels_aangereikt")
     prijsvorm = tel(intv, "prijsvorm")
@@ -252,8 +271,14 @@ def genereer(inz):
     a(tabel(inz, "ai_gebruik", "Werkt het bedrijf al met AI-tools?"))
     a("Toelichtingen (gebruik of reden om niet te gebruiken):\n")
     a(citatenblok(toelichting, "Geen toelichtingen gegeven."))
-    a(DUIDING.format(wie="Amin en Ayah", wat="Context bij het huidige gebruik uit interviewvraag 1 en 5; huidige praktijk (H) scheiden van verwachting (V)."))
+    a(tabel(inz, "geletterdheid_team", "AI-kennis in het team (geletterdheid)"))
+    a(DUIDING.format(wie="Amin en Ayah", wat="Context bij het huidige gebruik uit interviewvraag 1 en 5 en werkbladvraag K1/K2; huidige praktijk (H) scheiden van verwachting (V)."))
     a("### 2.2 Taken: wat mag een AI-agent wel en niet\n")
+    a(tabel(inz, "sales_offerte", "Sales: offerte zelfstandig opstellen en direct versturen"))
+    a(tabel(inz, "sales_prijs", "Sales: zelf prijzen of kortingen bepalen binnen gestelde grenzen"))
+    a(tabel(inz, "sales_leads", "Sales: zelfstandig leads opvolgen"))
+    a("Redenen en grenzen bij de sales-vragen:\n")
+    a(citatenblok(sales_reden, "Geen open antwoorden."))
     a(tabel(inz, "taken", "Taken die men een AI-agent zelfstandig zou laten uitvoeren", meerkeuze=True))
     a("Wat men een AI-agent nooit zelfstandig zou laten doen:\n")
     a(citatenblok(nooit, "Geen open antwoorden."))
@@ -265,6 +290,10 @@ def genereer(inz):
     a("### 2.4 Drempels, regelkennis en betalingsbereidheid\n")
     a(tabel(inz, "drempel", "Grootste drempel"))
     a(tabel(inz, "regels_bekend", "Bekendheid met AVG en AI-verordening"))
+    a(tabel(inz, "geletterdheid_plicht", "Bekendheid met de AI-geletterdheidsplicht (AI-verordening, artikel 4)"))
+    if gelet_reactie:
+        a("Reacties op de geletterdheidsplicht in de interviews:\n")
+        a(citatenblok(gelet_reactie, "Geen reacties genoteerd."))
     if intv:
         a("Regelkennis in de interviews, spontaan genoemd tegenover pas na aanreiken herkend:\n")
         alle_regels = sorted(set(spontaan) | set(aangereikt))
@@ -283,6 +312,8 @@ def genereer(inz):
     a(DUIDING.format(wie="Ayah en Reda", wat="Nuance bij drempels, investeringsvoorwaarden en leverancierseisen uit interviewvraag 8, 10, 11 en 12."))
     a("### 2.5 Kansen en zorgen\n")
     a(citatenblok(kans_zorg, "Geen open antwoorden."))
+    a("Gewenste regel of duidelijkheid van de overheid (één wens):\n")
+    a(citatenblok(overheid_wens, "Geen open antwoorden."))
     a(DUIDING.format(wie="Reda", wat="Patronen in kansen en zorgen; koppel aan sector en omvang waar dat betekenisvol is."))
 
     a("## 3. Conclusies (automatisch voorstel, te valideren)\n")

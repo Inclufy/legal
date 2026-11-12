@@ -38,3 +38,7 @@ K1/K2/K3 voeden het veld AI-gebruik en toelichting plus het gap-register; S1–S
 Het interviewwerkblad (`Interviewwerkblad_MIT_28436.pdf`/`.docx`) is de uitvoeringsvorm van dit besluit.
 
 Mede mogelijk gemaakt door een subsidie van de provincie Flevoland.
+
+## 7. Doorwerking in de enquête en de systemen (12 november 2026)
+
+De enquête op inclufy.com/ai-onderzoek en inclufy.com/ai-research is per 12 november gelijkgetrokken met dit besluit (enquête v3, GitHub PR #62): dezelfde opbouw (kennis → sales → toepassing → wetgeving → slot) en vier nieuwe onderdelen met vaste antwoordwaarden: AI-kennis team (`geletterdheid_team`), sales-grens (`sales_offerte`, `sales_prijs`, `sales_leads`, open `sales_reden`), bekendheid geletterdheidsplicht (`geletterdheid_plicht`) en de overheidswens (`overheid_wens`). Bestaande vragen, veldnamen en antwoordwaarden zijn ongewijzigd (alleen hernummerd van tien naar twaalf vragen), zodat de eerdere inzendingen volledig vergelijkbaar blijven; bij die inzendingen zijn de nieuwe velden leeg. Het interviewinvoerformulier kreeg dezelfde velden (met werkbladcodes K2/K3 en S2/S3/S4 in de labels); W1 landt in het bestaande veld `duidelijkheid_overheid`. Verwerkingsscript (verwerk_enquete.py) en invoersjabloon tellen de nieuwe velden mee in de tabellen AI-kennis team, sales-grens (drie tabellen) en geletterdheidsplicht, plus citaten voor sales-redenen en overheidswensen.
